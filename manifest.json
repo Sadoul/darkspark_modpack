@@ -3,7 +3,16 @@
   "minecraft_version": "1.20.1",
   "loader": "fabric",
   "loader_version": "",
-  "mods": [],
+  "mods": [
+    {
+      "name": "zoomlens-neoforge-1.21.1-v1.1.jar",
+      "path": "mods/zoomlens-neoforge-1.21.1-v1.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/zoomlens-neoforge-1.21.1-v1.1.jar",
+      "sha1": "6e92a1678382bb85a6b0a2c28072eb172d520553",
+      "size": 14060,
+      "enabled": true
+    }
+  ],
   "server_ip": "localhost:25565",
   "discord_url": "https://discord.gg/"
 }
