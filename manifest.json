@@ -1,0 +1,9 @@
+{
+  "name": "danganverse",
+  "minecraft_version": "1.20.1",
+  "loader": "fabric",
+  "loader_version": "",
+  "mods": [],
+  "server_ip": "localhost:25565",
+  "discord_url": "https://discord.gg/"
+}
