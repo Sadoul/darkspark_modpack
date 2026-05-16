@@ -19,6 +19,14 @@
       "sha1": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
       "size": 2111565,
       "enabled": true
+    },
+    {
+      "name": "modmenu-7.2.2.jar",
+      "path": "mods/modmenu-7.2.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/modmenu-7.2.2.jar",
+      "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
+      "size": 721366,
+      "enabled": true
     }
   ],
   "server_ip": "localhost:25565",
