@@ -1,0 +1,1050 @@
+{
+  "name": "danganverse",
+  "minecraft_version": "1.20.1",
+  "loader": "fabric",
+  "loader_version": "",
+  "mods": [
+    {
+      "name": "architectury-9.2.14-fabric.jar",
+      "path": "mods/architectury-9.2.14-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/architectury-9.2.14-fabric.jar",
+      "sha1": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d",
+      "size": 585207,
+      "enabled": true
+    },
+    {
+      "name": "armourersworkshop-fabric-1.20.1-3.0.0-beta.25.jar",
+      "path": "mods/armourersworkshop-fabric-1.20.1-3.0.0-beta.25.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/armourersworkshop-fabric-1.20.1-3.0.0-beta.25.jar",
+      "sha1": "7d4d15598d1dba1efb229275f57205a3bbf409c9",
+      "size": 5182570,
+      "enabled": true
+    },
+    {
+      "name": "arts_and_crafts-fabric-1.20.1-1.3.1.jar",
+      "path": "mods/arts_and_crafts-fabric-1.20.1-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/arts_and_crafts-fabric-1.20.1-1.3.1.jar",
+      "sha1": "766eaa10a216b4966b2990759a61f835c37173d0",
+      "size": 4786110,
+      "enabled": true
+    },
+    {
+      "name": "Axiom-4.1.1-for-MC1.20.1.jar",
+      "path": "mods/Axiom-4.1.1-for-MC1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Axiom-4.1.1-for-MC1.20.1.jar",
+      "sha1": "ea3f7c4ccd4f6f5a8b7882ece64fa413ea711030",
+      "size": 39017576,
+      "enabled": true
+    },
+    {
+      "name": "balm-fabric-1.20.1-7.3.37.jar",
+      "path": "mods/balm-fabric-1.20.1-7.3.37.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/balm-fabric-1.20.1-7.3.37.jar",
+      "sha1": "f152937a8064f70ec65667e29d18ac8830bf6028",
+      "size": 608287,
+      "enabled": true
+    },
+    {
+      "name": "bbb-1.20.1-fabric-1.0.2.jar",
+      "path": "mods/bbb-1.20.1-fabric-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/bbb-1.20.1-fabric-1.0.2.jar",
+      "sha1": "871aa0d1dc8d1680af2fefe11bf7d484a534b30b",
+      "size": 1794706,
+      "enabled": true
+    },
+    {
+      "name": "bendy-lib-fabric-4.0.0.jar",
+      "path": "mods/bendy-lib-fabric-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/bendy-lib-fabric-4.0.0.jar",
+      "sha1": "6639521e0dcdbe8d35c17dd05cec2cafa1fa522a",
+      "size": 49297,
+      "enabled": true
+    },
+    {
+      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "path": "mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "sha1": "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe",
+      "size": 1782676,
+      "enabled": true
+    },
+    {
+      "name": "blabber-1.6.1-mc1.20.1-standalone.jar",
+      "path": "mods/blabber-1.6.1-mc1.20.1-standalone.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/blabber-1.6.1-mc1.20.1-standalone.jar",
+      "sha1": "69d21c09bc8b3beccca01e017bd84107cd3dd2be",
+      "size": 328074,
+      "enabled": true
+    },
+    {
+      "name": "blockus-2.7.19+1.20.1.jar",
+      "path": "mods/blockus-2.7.19+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/blockus-2.7.19+1.20.1.jar",
+      "sha1": "80de55555cbabf5e893aace3803c54e6dc3990a4",
+      "size": 6894082,
+      "enabled": true
+    },
+    {
+      "name": "bsvsb-3.0.3.jar",
+      "path": "mods/bsvsb-3.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/bsvsb-3.0.3.jar",
+      "sha1": "54aa4ff74c0f8a7dddce2499ca17ec3d521d0f96",
+      "size": 20214,
+      "enabled": true
+    },
+    {
+      "name": "CameraOverhaul-1.4.1-fabric-universal.jar",
+      "path": "mods/CameraOverhaul-1.4.1-fabric-universal.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/CameraOverhaul-1.4.1-fabric-universal.jar",
+      "sha1": "64484033377fe7fdd2e008e5c1e6b113eb0c25a3",
+      "size": 57022,
+      "enabled": true
+    },
+    {
+      "name": "cloth-config-11.1.136-fabric.jar",
+      "path": "mods/cloth-config-11.1.136-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/cloth-config-11.1.136-fabric.jar",
+      "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab",
+      "size": 1172214,
+      "enabled": true
+    },
+    {
+      "name": "Cluttered-2.1.0-1.20.1[Fabric].jar",
+      "path": "mods/Cluttered-2.1.0-1.20.1[Fabric].jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Cluttered-2.1.0-1.20.1[Fabric].jar",
+      "sha1": "38581f6fcbcd2ca3959354cd196b52502f0548dd",
+      "size": 5363792,
+      "enabled": true
+    },
+    {
+      "name": "cmdkeybind-1.6.3-1.20.jar",
+      "path": "mods/cmdkeybind-1.6.3-1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/cmdkeybind-1.6.3-1.20.jar",
+      "sha1": "0cf171a575e571727d775c4ae2d0a185896b57e9",
+      "size": 426985,
+      "enabled": true
+    },
+    {
+      "name": "collective-1.20.1-7.87.jar",
+      "path": "mods/collective-1.20.1-7.87.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/collective-1.20.1-7.87.jar",
+      "sha1": "6b30430c4737fddf0ee1913a198bcce0f5230a21",
+      "size": 648876,
+      "enabled": true
+    },
+    {
+      "name": "CollisionFix-1.0.1.jar",
+      "path": "mods/CollisionFix-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/CollisionFix-1.0.1.jar",
+      "sha1": "a6c39b00357be9309633d58a204c84419c9d8a9f",
+      "size": 58286,
+      "enabled": true
+    },
+    {
+      "name": "convenientdecor-0.4.3.jar",
+      "path": "mods/convenientdecor-0.4.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/convenientdecor-0.4.3.jar",
+      "sha1": "652c4b2908baa6cfeffaaecb2399f0ed41549bf8",
+      "size": 722441,
+      "enabled": true
+    },
+    {
+      "name": "CreativeCore_FABRIC_v2.12.20_mc1.20.1.jar",
+      "path": "mods/CreativeCore_FABRIC_v2.12.20_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/CreativeCore_FABRIC_v2.12.20_mc1.20.1.jar",
+      "sha1": "fdd2ec840bafb6cb88a29f2bd10ef9756a5980c6",
+      "size": 1201002,
+      "enabled": true
+    },
+    {
+      "name": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
+      "path": "mods/Cull Less Leaves-1.4.2+1.21-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Cull Less Leaves-1.4.2+1.21-fabric.jar",
+      "sha1": "fb6bc41a024e0f0f14ded097025d205a240a60b5",
+      "size": 27086,
+      "enabled": true
+    },
+    {
+      "name": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+      "path": "mods/cultural-delights-fabric-1.0.5+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/cultural-delights-fabric-1.0.5+1.20.1.jar",
+      "sha1": "9301a8df3a5d2fd70092bfebe59131a68a756a11",
+      "size": 466911,
+      "enabled": true
+    },
+    {
+      "name": "DanganverseMain-0.8.jar",
+      "path": "mods/DanganverseMain-0.8.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/DanganverseMain-0.8.jar",
+      "sha1": "051053c139931a41f502951f811ef79a4037a82d",
+      "size": 26990360,
+      "enabled": true
+    },
+    {
+      "name": "doubledoors-1.20.1-5.9.jar",
+      "path": "mods/doubledoors-1.20.1-5.9.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/doubledoors-1.20.1-5.9.jar",
+      "sha1": "d336d5e0522dc31d22c7cdb46920ef11b7a74fe5",
+      "size": 49193,
+      "enabled": true
+    },
+    {
+      "name": "DripSounds-1.19.4-0.3.2.jar",
+      "path": "mods/DripSounds-1.19.4-0.3.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/DripSounds-1.19.4-0.3.2.jar",
+      "sha1": "0ec2a4722337bdcb668b6e37c43ec35bc2e0c617",
+      "size": 84945,
+      "enabled": true
+    },
+    {
+      "name": "dynamiccrosshair-7.4.4+1.20-fabric.jar",
+      "path": "mods/dynamiccrosshair-7.4.4+1.20-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/dynamiccrosshair-7.4.4+1.20-fabric.jar",
+      "sha1": "99b63cd2478966710cf2e19568dcde7b14a86201",
+      "size": 357436,
+      "enabled": true
+    },
+    {
+      "name": "dynamic-fps-3.7.6+minecraft-1.20.0-fabric.jar",
+      "path": "mods/dynamic-fps-3.7.6+minecraft-1.20.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/dynamic-fps-3.7.6+minecraft-1.20.0-fabric.jar",
+      "sha1": "948837e629b7536e6ea491e569319afaff91a6f4",
+      "size": 187515,
+      "enabled": true
+    },
+    {
+      "name": "easy_npc-fabric-1.20.1-5.7.2.jar",
+      "path": "mods/easy_npc-fabric-1.20.1-5.7.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/easy_npc-fabric-1.20.1-5.7.2.jar",
+      "sha1": "20780632e54a95e7748952e258c54477b08d8770",
+      "size": 1529146,
+      "enabled": true
+    },
+    {
+      "name": "ecologics-fabric-1.20.1-2.2.2.jar",
+      "path": "mods/ecologics-fabric-1.20.1-2.2.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ecologics-fabric-1.20.1-2.2.2.jar",
+      "sha1": "f2d626377c81bb95155e707da3b085bb53240b11",
+      "size": 2812642,
+      "enabled": true
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "sha1": "222c93e8a63a6b486f223714a5b20b2e0f206954",
+      "size": 873611,
+      "enabled": true
+    },
+    {
+      "name": "EnhancedVisuals_FABRIC_v1.8.1_mc1.20.1.jar",
+      "path": "mods/EnhancedVisuals_FABRIC_v1.8.1_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/EnhancedVisuals_FABRIC_v1.8.1_mc1.20.1.jar",
+      "sha1": "883eca3e3f25b65883f5abc2f3a43299685bd371",
+      "size": 4728240,
+      "enabled": true
+    },
+    {
+      "name": "entity_model_features_fabric_1.20.1-2.2.6.jar",
+      "path": "mods/entity_model_features_fabric_1.20.1-2.2.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/entity_model_features_fabric_1.20.1-2.2.6.jar",
+      "sha1": "f4299962b4c77eeec163506af31c2b73fc7c2198",
+      "size": 431222,
+      "enabled": true
+    },
+    {
+      "name": "entity_texture_features_fabric_1.20.1-6.2.5.jar",
+      "path": "mods/entity_texture_features_fabric_1.20.1-6.2.5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/entity_texture_features_fabric_1.20.1-6.2.5.jar",
+      "sha1": "8cbb6555efbd3de26ed9a9d15fe6b2880c62ed4e",
+      "size": 638732,
+      "enabled": true
+    },
+    {
+      "name": "entityculling-fabric-1.7.0-mc1.20.1.jar",
+      "path": "mods/entityculling-fabric-1.7.0-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/entityculling-fabric-1.7.0-mc1.20.1.jar",
+      "sha1": "ca608d603f28d32e88b6d8cfce40cbcd2b864b8d",
+      "size": 66855,
+      "enabled": true
+    },
+    {
+      "name": "fabric-api-0.92.2+1.20.1.jar",
+      "path": "mods/fabric-api-0.92.2+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/fabric-api-0.92.2+1.20.1.jar",
+      "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
+      "size": 2107289,
+      "enabled": true
+    },
+    {
+      "name": "fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+      "path": "mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+      "sha1": "54cd3900a904b81bd24c4a35b6577a2ac197b51a",
+      "size": 7137406,
+      "enabled": true
+    },
+    {
+      "name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+      "path": "mods/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+      "sha1": "40283a0674b58fc42c06bbed3bd41473db07ef35",
+      "size": 6176978,
+      "enabled": true
+    },
+    {
+      "name": "Female-Gender-Mod-fabric-1.20-3.0.1.jar",
+      "path": "mods/Female-Gender-Mod-fabric-1.20-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Female-Gender-Mod-fabric-1.20-3.0.1.jar",
+      "sha1": "0dcb15cc3a05f6c2f006ec33420d6f4df17643b2",
+      "size": 241964,
+      "enabled": true
+    },
+    {
+      "name": "ferritecore-6.0.1-fabric.jar",
+      "path": "mods/ferritecore-6.0.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ferritecore-6.0.1-fabric.jar",
+      "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
+      "size": 125197,
+      "enabled": true
+    },
+    {
+      "name": "ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+      "path": "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+      "sha1": "2ba4a6149362dbbf81288f393f0022ee9fb07302",
+      "size": 397198,
+      "enabled": true
+    },
+    {
+      "name": "framework-fabric-1.20.1-0.7.12.jar",
+      "path": "mods/framework-fabric-1.20.1-0.7.12.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/framework-fabric-1.20.1-0.7.12.jar",
+      "sha1": "4c0c04fc1f676e0e4ef25648a216aceaeb151627",
+      "size": 1393788,
+      "enabled": true
+    },
+    {
+      "name": "furnish-26-fabric.jar",
+      "path": "mods/furnish-26-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/furnish-26-fabric.jar",
+      "sha1": "a9830d67710fb8aaf1351c2b5b560d75b1721f27",
+      "size": 2932768,
+      "enabled": true
+    },
+    {
+      "name": "fzzy_config-0.5.6+1.20.1.jar",
+      "path": "mods/fzzy_config-0.5.6+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/fzzy_config-0.5.6+1.20.1.jar",
+      "sha1": "b7336f24fd48c292a0deaf43d20586ba469c44d4",
+      "size": 1507899,
+      "enabled": true
+    },
+    {
+      "name": "geckolib-fabric-1.20.1-4.4.9.jar",
+      "path": "mods/geckolib-fabric-1.20.1-4.4.9.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/geckolib-fabric-1.20.1-4.4.9.jar",
+      "sha1": "0a140e385c029bbedd5a62903c4b6c7bd451d71b",
+      "size": 1019731,
+      "enabled": true
+    },
+    {
+      "name": "handcrafted-fabric-1.20.1-3.0.6.jar",
+      "path": "mods/handcrafted-fabric-1.20.1-3.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/handcrafted-fabric-1.20.1-3.0.6.jar",
+      "sha1": "459ccaa507c4c28738c6d821e12b66de31861c66",
+      "size": 7106384,
+      "enabled": true
+    },
+    {
+      "name": "hardcore_torches_fabric-1.20.1-1.6.5.jar",
+      "path": "mods/hardcore_torches_fabric-1.20.1-1.6.5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/hardcore_torches_fabric-1.20.1-1.6.5.jar",
+      "sha1": "b5499e936441c9ba91b6338f3ea2facc9f953c6c",
+      "size": 132907,
+      "enabled": true
+    },
+    {
+      "name": "hearth_and_home-fabric-1.20.1-2.0.3.jar",
+      "path": "mods/hearth_and_home-fabric-1.20.1-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/hearth_and_home-fabric-1.20.1-2.0.3.jar",
+      "sha1": "7dc683cf14d86e20f2f90d6f64ec5476abbe306c",
+      "size": 1174045,
+      "enabled": true
+    },
+    {
+      "name": "highlight-fabric-1.20-2.0.1.jar",
+      "path": "mods/highlight-fabric-1.20-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/highlight-fabric-1.20-2.0.1.jar",
+      "sha1": "5714ec9fb4fac05cec51494a8ffa0d43ffca527f",
+      "size": 289344,
+      "enabled": true
+    },
+    {
+      "name": "Iceberg-1.20.1-fabric-1.1.25.jar",
+      "path": "mods/Iceberg-1.20.1-fabric-1.1.25.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Iceberg-1.20.1-fabric-1.1.25.jar",
+      "sha1": "365e70abde54faab847d2594420dc2bbd589ad3d",
+      "size": 119018,
+      "enabled": true
+    },
+    {
+      "name": "ImmediatelyFast-Fabric-1.3.1+1.20.4.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.3.1+1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ImmediatelyFast-Fabric-1.3.1+1.20.4.jar",
+      "sha1": "b521b702a320fd50e2d6d07a97dfd269b8a4b924",
+      "size": 244073,
+      "enabled": true
+    },
+    {
+      "name": "immersive_paintings-0.6.7+1.20.1-fabric.jar",
+      "path": "mods/immersive_paintings-0.6.7+1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/immersive_paintings-0.6.7+1.20.1-fabric.jar",
+      "sha1": "c68aedc021ee8b89595de9ebee968ef1bbb29ec4",
+      "size": 4839553,
+      "enabled": true
+    },
+    {
+      "name": "indium-1.0.27+mc1.20.1.jar",
+      "path": "mods/indium-1.0.27+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/indium-1.0.27+mc1.20.1.jar",
+      "sha1": "8c8e6b96243155b41f2f9d29d5940ee895bcb141",
+      "size": 104807,
+      "enabled": true
+    },
+    {
+      "name": "iris-mc1.20.1-1.6.10.jar",
+      "path": "mods/iris-mc1.20.1-1.6.10.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/iris-mc1.20.1-1.6.10.jar",
+      "sha1": "338d922ec28c8ccd24e2387de29f53987145485a",
+      "size": 2412690,
+      "enabled": true
+    },
+    {
+      "name": "ItemPhysic_FABRIC_v1.8.2_mc1.20.1.jar",
+      "path": "mods/ItemPhysic_FABRIC_v1.8.2_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ItemPhysic_FABRIC_v1.8.2_mc1.20.1.jar",
+      "sha1": "5feddb8da4a1d35336224bf4fadbdc6272d09655",
+      "size": 55419,
+      "enabled": true
+    },
+    {
+      "name": "itemplacer-fabric-1.9.2.jar",
+      "path": "mods/itemplacer-fabric-1.9.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/itemplacer-fabric-1.9.2.jar",
+      "sha1": "78e2e95fabf24c96ac853ac854e05dca60d01f94",
+      "size": 34897,
+      "enabled": true
+    },
+    {
+      "name": "justzoom_fabric_2.1.0_MC_1.20.1.jar",
+      "path": "mods/justzoom_fabric_2.1.0_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/justzoom_fabric_2.1.0_MC_1.20.1.jar",
+      "sha1": "538a90dd2eced7704a900d53b9cbc5cf5cea6b64",
+      "size": 196623,
+      "enabled": true
+    },
+    {
+      "name": "Kiwi-1.20.1-Fabric-11.8.26.jar",
+      "path": "mods/Kiwi-1.20.1-Fabric-11.8.26.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Kiwi-1.20.1-Fabric-11.8.26.jar",
+      "sha1": "ac74b152870b4eda766355b0fdacaad027c122da",
+      "size": 1483115,
+      "enabled": true
+    },
+    {
+      "name": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
+      "size": 892067,
+      "enabled": true
+    },
+    {
+      "name": "lambdynamiclights-2.3.2+1.20.1.jar",
+      "path": "mods/lambdynamiclights-2.3.2+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/lambdynamiclights-2.3.2+1.20.1.jar",
+      "sha1": "71b636fa74744e51ba2d248c81a38bdbfad5d43b",
+      "size": 573183,
+      "enabled": true
+    },
+    {
+      "name": "leashmod-1.0.6.jar",
+      "path": "mods/leashmod-1.0.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/leashmod-1.0.6.jar",
+      "sha1": "0c5459784e1c4874a4945bc114a541159b86e7a5",
+      "size": 18964,
+      "enabled": true
+    },
+    {
+      "name": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+      "path": "mods/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+      "sha1": "64170c3a1b42b8f8c430d4f2400644f8131a47a1",
+      "size": 63969,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-API-fabric-1.2.15-fabric.jar",
+      "path": "mods/letsdo-API-fabric-1.2.15-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-API-fabric-1.2.15-fabric.jar",
+      "sha1": "75fe2c9ee62ed131620c0dfb4be8a9cad616eec0",
+      "size": 1702813,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-bakery-fabric-1.1.15.jar",
+      "path": "mods/letsdo-bakery-fabric-1.1.15.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-bakery-fabric-1.1.15.jar",
+      "sha1": "e48ea2a659e0f57a7d1b1cc055a1451bd354898f",
+      "size": 1529233,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-brewery-fabric-1.1.9.jar",
+      "path": "mods/letsdo-brewery-fabric-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-brewery-fabric-1.1.9.jar",
+      "sha1": "1a4e55678c4f679526f2ea252329b6d5aa12d7b8",
+      "size": 2211492,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-furniture-fabric-1.0.4.jar",
+      "path": "mods/letsdo-furniture-fabric-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-furniture-fabric-1.0.4.jar",
+      "sha1": "aad9dff156a6f263986306b4591460c282fb53aa",
+      "size": 2801344,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-herbalbrews-fabric-1.0.8.1.jar",
+      "path": "mods/letsdo-herbalbrews-fabric-1.0.8.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-herbalbrews-fabric-1.0.8.1.jar",
+      "sha1": "59b2711cf18e502d68eae57bb63e472544dfc20a",
+      "size": 667567,
+      "enabled": true
+    },
+    {
+      "name": "letsdo-vinery-fabric-1.4.28.jar",
+      "path": "mods/letsdo-vinery-fabric-1.4.28.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letsdo-vinery-fabric-1.4.28.jar",
+      "sha1": "7bc406aacde25eaaa1005c25bd6eea13cd84630f",
+      "size": 3051912,
+      "enabled": true
+    },
+    {
+      "name": "LibGui-8.1.1+1.20.1.jar",
+      "path": "mods/LibGui-8.1.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/LibGui-8.1.1+1.20.1.jar",
+      "sha1": "d3e245d599e43843f13a06deeefa76a4a2449947",
+      "size": 407149,
+      "enabled": true
+    },
+    {
+      "name": "lithium-fabric-mc1.20.1-0.11.2.jar",
+      "path": "mods/lithium-fabric-mc1.20.1-0.11.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/lithium-fabric-mc1.20.1-0.11.2.jar",
+      "sha1": "8f4642147e60827f728badac7a819d1a9f3b25d5",
+      "size": 645865,
+      "enabled": true
+    },
+    {
+      "name": "lunade-fastanim-1.6-1.20.jar",
+      "path": "mods/lunade-fastanim-1.6-1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/lunade-fastanim-1.6-1.20.jar",
+      "sha1": "0e611399323878b9f3efcc6016ea5d6eefc8c765",
+      "size": 118384,
+      "enabled": true
+    },
+    {
+      "name": "mcw-lights-1.1.2-mc1.20.1fabric.jar",
+      "path": "mods/mcw-lights-1.1.2-mc1.20.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/mcw-lights-1.1.2-mc1.20.1fabric.jar",
+      "sha1": "a368223b30e2232d04b392b49934b265bebf57cd",
+      "size": 508187,
+      "enabled": true
+    },
+    {
+      "name": "mcw-mcwholidays-1.1.1-mc1.20.1fabric.jar",
+      "path": "mods/mcw-mcwholidays-1.1.1-mc1.20.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/mcw-mcwholidays-1.1.1-mc1.20.1fabric.jar",
+      "sha1": "217e032773eccc70a512ad699f41d8628bc4c80e",
+      "size": 1002531,
+      "enabled": true
+    },
+    {
+      "name": "mcw-windows-2.3.0-mc1.20.1fabric.jar",
+      "path": "mods/mcw-windows-2.3.0-mc1.20.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/mcw-windows-2.3.0-mc1.20.1fabric.jar",
+      "sha1": "720f2d5569c8fa409de587c1df140d9723356ee1",
+      "size": 1344964,
+      "enabled": true
+    },
+    {
+      "name": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "sha1": "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e",
+      "size": 49334,
+      "enabled": true
+    },
+    {
+      "name": "midnightlib-fabric-1.4.1.1.jar",
+      "path": "mods/midnightlib-fabric-1.4.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/midnightlib-fabric-1.4.1.1.jar",
+      "sha1": "23ab09b69c30e296d35fc957c2e9168b10a94001",
+      "size": 57229,
+      "enabled": true
+    },
+    {
+      "name": "mixintrace-1.1.1+1.17.jar",
+      "path": "mods/mixintrace-1.1.1+1.17.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/mixintrace-1.1.1+1.17.jar",
+      "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+      "size": 36039,
+      "enabled": true
+    },
+    {
+      "name": "modelfix-1.15-fabric.jar",
+      "path": "mods/modelfix-1.15-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/modelfix-1.15-fabric.jar",
+      "sha1": "75554b02e63a2440321a32dc5e55988897181bdf",
+      "size": 65491,
+      "enabled": true
+    },
+    {
+      "name": "modernfix-fabric-5.19.4+mc1.20.1.jar",
+      "path": "mods/modernfix-fabric-5.19.4+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/modernfix-fabric-5.19.4+mc1.20.1.jar",
+      "sha1": "cd9d43acfcc01bd55be349dc64df4ba78919c243",
+      "size": 648404,
+      "enabled": true
+    },
+    {
+      "name": "modmenu-7.2.2.jar",
+      "path": "mods/modmenu-7.2.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/modmenu-7.2.2.jar",
+      "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
+      "size": 721366,
+      "enabled": true
+    },
+    {
+      "name": "monolib-fabric-1.20.1-1.4.1.jar",
+      "path": "mods/monolib-fabric-1.20.1-1.4.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/monolib-fabric-1.20.1-1.4.1.jar",
+      "sha1": "74b5494c0045c2752215060f8714f26c4395b64a",
+      "size": 144856,
+      "enabled": true
+    },
+    {
+      "name": "moonlight-1.20-2.16.8-fabric.jar",
+      "path": "mods/moonlight-1.20-2.16.8-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/moonlight-1.20-2.16.8-fabric.jar",
+      "sha1": "88d73fd941255bd48dd1846bd3c531f4f35836c4",
+      "size": 1308843,
+      "enabled": true
+    },
+    {
+      "name": "morechathistory-1.3.0.jar",
+      "path": "mods/morechathistory-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/morechathistory-1.3.0.jar",
+      "sha1": "346cce5cb5d89e676d8ed0dca05522369063b3c3",
+      "size": 3546,
+      "enabled": true
+    },
+    {
+      "name": "moredelight-24.09.27-1.20-fabric.jar",
+      "path": "mods/moredelight-24.09.27-1.20-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/moredelight-24.09.27-1.20-fabric.jar",
+      "sha1": "573620e5db4ee627c0af313b44d8b2cf2773ef18",
+      "size": 142313,
+      "enabled": true
+    },
+    {
+      "name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+      "path": "mods/MouseTweaks-fabric-mc1.20-2.26.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/MouseTweaks-fabric-mc1.20-2.26.jar",
+      "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841",
+      "size": 77943,
+      "enabled": true
+    },
+    {
+      "name": "MRU-1.0.4+1.20.1+fabric.jar",
+      "path": "mods/MRU-1.0.4+1.20.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/MRU-1.0.4+1.20.1+fabric.jar",
+      "sha1": "fe62ff4ff3bc390f0e841bbd868ce219c5caca1e",
+      "size": 104277,
+      "enabled": true
+    },
+    {
+      "name": "new_slab_variants-merged-1.20.1-3.0.1.jar",
+      "path": "mods/new_slab_variants-merged-1.20.1-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/new_slab_variants-merged-1.20.1-3.0.1.jar",
+      "sha1": "6204db3e7e519debb8858a0df9f9601e1f2abd96",
+      "size": 880881,
+      "enabled": true
+    },
+    {
+      "name": "new_soviet-0.4.0.jar",
+      "path": "mods/new_soviet-0.4.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/new_soviet-0.4.0.jar",
+      "sha1": "6ce50dface9339357ebd5d8d9a2f6d46fffa612e",
+      "size": 5876444,
+      "enabled": true
+    },
+    {
+      "name": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+      "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+      "sha1": "b99f23fb76aad5a944400717e6d71aa011c4d7f7",
+      "size": 619812,
+      "enabled": true
+    },
+    {
+      "name": "no-player-nametags-2.jar",
+      "path": "mods/no-player-nametags-2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/no-player-nametags-2.jar",
+      "sha1": "0d0a9f5cd56a487ad87bf429b61cf403e74a1b34",
+      "size": 3786,
+      "enabled": true
+    },
+    {
+      "name": "notenoughanimations-fabric-1.7.6-mc1.20.1.jar",
+      "path": "mods/notenoughanimations-fabric-1.7.6-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/notenoughanimations-fabric-1.7.6-mc1.20.1.jar",
+      "sha1": "66d4b350f1e5a293f4bcef9c03df2f23a11fd94c",
+      "size": 424450,
+      "enabled": true
+    },
+    {
+      "name": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+      "path": "mods/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+      "sha1": "cde4b68187525dabfbd478fe8ac5cc2add4679cc",
+      "size": 20923,
+      "enabled": true
+    },
+    {
+      "name": "Pehkui-3.8.3+1.14.4-1.21.jar",
+      "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
+      "size": 555041,
+      "enabled": true
+    },
+    {
+      "name": "plasmovoice-fabric-1.20.1-2.1.1.jar",
+      "path": "mods/plasmovoice-fabric-1.20.1-2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/plasmovoice-fabric-1.20.1-2.1.1.jar",
+      "sha1": "202e17d15f8864971af12499367a6f7782ec8584",
+      "size": 11896375,
+      "enabled": true
+    },
+    {
+      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "path": "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617",
+      "size": 181008,
+      "enabled": true
+    },
+    {
+      "name": "playerplates-fabric-3.0.1+mc1.20.1.jar",
+      "path": "mods/playerplates-fabric-3.0.1+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/playerplates-fabric-3.0.1+mc1.20.1.jar",
+      "sha1": "9cf1e62514c5fc812f9f23b93d81242183d695bc",
+      "size": 30804,
+      "enabled": true
+    },
+    {
+      "name": "PresenceFootsteps-1.9.4+1.20.1.jar",
+      "path": "mods/PresenceFootsteps-1.9.4+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/PresenceFootsteps-1.9.4+1.20.1.jar",
+      "sha1": "f4b446c7153bf6dbe41b7f3325686e3dd630dff1",
+      "size": 5733027,
+      "enabled": true
+    },
+    {
+      "name": "Prism-1.20.1-fabric-1.0.5.jar",
+      "path": "mods/Prism-1.20.1-fabric-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Prism-1.20.1-fabric-1.0.5.jar",
+      "sha1": "cd169ef91788fed7e1025e5d2273d61978898e52",
+      "size": 57257,
+      "enabled": true
+    },
+    {
+      "name": "PuzzlesLib-v8.1.24-1.20.1-Fabric.jar",
+      "path": "mods/PuzzlesLib-v8.1.24-1.20.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/PuzzlesLib-v8.1.24-1.20.1-Fabric.jar",
+      "sha1": "c630ec1c8967bcb5ea3362c8b01f7b8685be0847",
+      "size": 980233,
+      "enabled": true
+    },
+    {
+      "name": "pv-addon-broadcast-1.1.0.jar",
+      "path": "mods/pv-addon-broadcast-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/pv-addon-broadcast-1.1.0.jar",
+      "sha1": "b819693d014ab81cfcfbe5d66df1c9aa9d6ca6c0",
+      "size": 58461,
+      "enabled": true
+    },
+    {
+      "name": "pv-addon-groups-1.1.0.jar",
+      "path": "mods/pv-addon-groups-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/pv-addon-groups-1.1.0.jar",
+      "sha1": "bafb765651ae4dc59fa2eda54690405e0010d2ea",
+      "size": 161428,
+      "enabled": true
+    },
+    {
+      "name": "reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+      "path": "mods/reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+      "sha1": "e7719e21ee8ee6d2738abdc436c099d8177acc34",
+      "size": 69662,
+      "enabled": true
+    },
+    {
+      "name": "reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar",
+      "path": "mods/reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar",
+      "sha1": "49c68b22b9b4db4e1d3eaa3bdb6fdedd1faeba29",
+      "size": 70820,
+      "enabled": true
+    },
+    {
+      "name": "ReFramed-1.6.6.jar",
+      "path": "mods/ReFramed-1.6.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ReFramed-1.6.6.jar",
+      "sha1": "a1d656b76824fac79bb360bee8f13e1f89274f61",
+      "size": 758876,
+      "enabled": true
+    },
+    {
+      "name": "refurbished_furniture-fabric-1.20.1-1.0.8.jar",
+      "path": "mods/refurbished_furniture-fabric-1.20.1-1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/refurbished_furniture-fabric-1.20.1-1.0.8.jar",
+      "sha1": "1f0e3d522669a98a9ffa89b39bd8a80cb0ea17a2",
+      "size": 6094571,
+      "enabled": true
+    },
+    {
+      "name": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "path": "mods/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "sha1": "e1d85a3100c2f3683a65dca20518e3914d82b0f0",
+      "size": 431646,
+      "enabled": true
+    },
+    {
+      "name": "Scribble-1.4.0+mc1.20.1.jar",
+      "path": "mods/Scribble-1.4.0+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Scribble-1.4.0+mc1.20.1.jar",
+      "sha1": "c967b559bb96372b44076c5bdf948a25183ce2ca",
+      "size": 146862,
+      "enabled": true
+    },
+    {
+      "name": "ShoulderSurfing-Fabric-1.20.1-4.6.0.jar",
+      "path": "mods/ShoulderSurfing-Fabric-1.20.1-4.6.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ShoulderSurfing-Fabric-1.20.1-4.6.0.jar",
+      "sha1": "80dc36c5279fb479da2dcce91e86232b4f9d9d98",
+      "size": 192735,
+      "enabled": true
+    },
+    {
+      "name": "shutter-2.0.5-fabric-1.20.4.jar",
+      "path": "mods/shutter-2.0.5-fabric-1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/shutter-2.0.5-fabric-1.20.4.jar",
+      "sha1": "8c6a56b5c036836b6a1e45c3445778c3f8eb62d3",
+      "size": 784507,
+      "enabled": true
+    },
+    {
+      "name": "sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+      "path": "mods/sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+      "sha1": "74b6dce1ede645ffdecf1185fa05701cef68840d",
+      "size": 365533,
+      "enabled": true
+    },
+    {
+      "name": "sodium-fabric-mc1.20.1-0.5.3.jar",
+      "path": "mods/sodium-fabric-mc1.20.1-0.5.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/sodium-fabric-mc1.20.1-0.5.3.jar",
+      "sha1": "74784e6deb72e8cdb4e3788ac3a3cfd88fc77acf",
+      "size": 852373,
+      "enabled": true
+    },
+    {
+      "name": "Sounds-2.2.0+1.20.1+fabric.jar",
+      "path": "mods/Sounds-2.2.0+1.20.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Sounds-2.2.0+1.20.1+fabric.jar",
+      "sha1": "f1386c213dbe7a07641e861d7ae20f7638df55cb",
+      "size": 10424708,
+      "enabled": true
+    },
+    {
+      "name": "spookydoors-fabric-1.20.1-20.1.4.jar",
+      "path": "mods/spookydoors-fabric-1.20.1-20.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/spookydoors-fabric-1.20.1-20.1.4.jar",
+      "sha1": "eef16918a83eb6f2d183568e62afe7caac86f882",
+      "size": 205201,
+      "enabled": true
+    },
+    {
+      "name": "SubtleEffects-fabric-1.20.1-1.3.0.jar",
+      "path": "mods/SubtleEffects-fabric-1.20.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/SubtleEffects-fabric-1.20.1-1.3.0.jar",
+      "sha1": "34900fb202df2f86ccaa33dcb0c90cebd24c42a9",
+      "size": 1383609,
+      "enabled": true
+    },
+    {
+      "name": "supplementaries-1.20-3.1.38-fabric.jar",
+      "path": "mods/supplementaries-1.20-3.1.38-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/supplementaries-1.20-3.1.38-fabric.jar",
+      "sha1": "0f3e7f825b6de2a5c8e898af29d82f87a6ecf9bf",
+      "size": 13472148,
+      "enabled": true
+    },
+    {
+      "name": "tacz-fabric-1.20.1-1.0.2-hotfix3.jar",
+      "path": "mods/tacz-fabric-1.20.1-1.0.2-hotfix3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/tacz-fabric-1.20.1-1.0.2-hotfix3.jar",
+      "sha1": "b5f2ab6a2c5e278bc01a21f8d318eef1a84bc69c",
+      "size": 25042312,
+      "enabled": true
+    },
+    {
+      "name": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+      "path": "mods/The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+      "sha1": "a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe",
+      "size": 10272185,
+      "enabled": true
+    },
+    {
+      "name": "time-and-wind-ct-1.4.8+1.20-1.20.1.jar",
+      "path": "mods/time-and-wind-ct-1.4.8+1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/time-and-wind-ct-1.4.8+1.20-1.20.1.jar",
+      "sha1": "1022457b115552a2326a86570899e4c3a10ca57b",
+      "size": 67076,
+      "enabled": true
+    },
+    {
+      "name": "titlefixer-1.0+1.20.1.jar",
+      "path": "mods/titlefixer-1.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/titlefixer-1.0+1.20.1.jar",
+      "sha1": "cd42eb47fe24d231ce69778e7e92e2f946559a33",
+      "size": 33446,
+      "enabled": true
+    },
+    {
+      "name": "tooltipfix-1.1.1-1.20.jar",
+      "path": "mods/tooltipfix-1.1.1-1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/tooltipfix-1.1.1-1.20.jar",
+      "sha1": "de704792c691e3d19316c87c21c9ad2bee6c66c3",
+      "size": 12432,
+      "enabled": true
+    },
+    {
+      "name": "twigs-3.1.0-fabric.jar",
+      "path": "mods/twigs-3.1.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/twigs-3.1.0-fabric.jar",
+      "sha1": "44b3fbfa9c70104b08e7c474e57234dc3b560bdd",
+      "size": 2958651,
+      "enabled": true
+    },
+    {
+      "name": "v_slab_compat-1.20-2.4-fabric.jar",
+      "path": "mods/v_slab_compat-1.20-2.4-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/v_slab_compat-1.20-2.4-fabric.jar",
+      "sha1": "a5d5a6ac876ed8b2b0e6bb035c77949501029061",
+      "size": 93213,
+      "enabled": true
+    },
+    {
+      "name": "valhelsia_core-fabric-1.20.1-1.1.2.jar",
+      "path": "mods/valhelsia_core-fabric-1.20.1-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/valhelsia_core-fabric-1.20.1-1.1.2.jar",
+      "sha1": "37d7327935c42b6fb0fe86a186b377de5461f3a9",
+      "size": 151703,
+      "enabled": true
+    },
+    {
+      "name": "valhelsia_furniture-fabric-1.20.1-1.1.3.jar",
+      "path": "mods/valhelsia_furniture-fabric-1.20.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/valhelsia_furniture-fabric-1.20.1-1.1.3.jar",
+      "sha1": "340b2560d2a757578cbcbe511d7cb3cf0962b976",
+      "size": 4506702,
+      "enabled": true
+    },
+    {
+      "name": "visuality-0.7.1+1.20.jar",
+      "path": "mods/visuality-0.7.1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/visuality-0.7.1+1.20.jar",
+      "sha1": "a4a5fc1edae49126432fc903dd6fdbb88b7251ed",
+      "size": 67302,
+      "enabled": true
+    },
+    {
+      "name": "VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "path": "mods/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "sha1": "326fcb260cf64c12714c2ada3ff8a4bdfed620f2",
+      "size": 79100,
+      "enabled": true
+    },
+    {
+      "name": "wakes-0.3.0+1.20.1.jar",
+      "path": "mods/wakes-0.3.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/wakes-0.3.0+1.20.1.jar",
+      "sha1": "c532c0660bccf9b35fcf2cf5920bb9a3b5416204",
+      "size": 355213,
+      "enabled": true
+    },
+    {
+      "name": "wheelchairs-fabric-2.54.jar",
+      "path": "mods/wheelchairs-fabric-2.54.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/wheelchairs-fabric-2.54.jar",
+      "sha1": "9c906d25a0a113184dbab233c97a8ea560e9044f",
+      "size": 740598,
+      "enabled": true
+    },
+    {
+      "name": "XeKr's Decoration-1.20.1-Fabric-0.8.3.jar",
+      "path": "mods/XeKr's Decoration-1.20.1-Fabric-0.8.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/XeKr's Decoration-1.20.1-Fabric-0.8.3.jar",
+      "sha1": "44951ace4f8418407719f227c2b07256717dbcee",
+      "size": 2537274,
+      "enabled": true
+    },
+    {
+      "name": "xercapaint-fabric-1.20.1-1.0.1.jar",
+      "path": "mods/xercapaint-fabric-1.20.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/xercapaint-fabric-1.20.1-1.0.1.jar",
+      "sha1": "17b69bb0eb8b62be11da79963522d4612382439b",
+      "size": 401360,
+      "enabled": true
+    },
+    {
+      "name": "ytones-v8.0.1-1.20.1-fabric.jar",
+      "path": "mods/ytones-v8.0.1-1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ytones-v8.0.1-1.20.1-fabric.jar",
+      "sha1": "8c8bc753dfac4244f39c0458cb39fcb30b852e10",
+      "size": 2071781,
+      "enabled": true
+    },
+    {
+      "name": "yuushya-1.20.1-fabric-2.2.3.jar",
+      "path": "mods/yuushya-1.20.1-fabric-2.2.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/yuushya-1.20.1-fabric-2.2.3.jar",
+      "sha1": "58b6fe02ef22cb472c8b6b27c3e9ca464aef51bc",
+      "size": 23407159,
+      "enabled": true
+    }
+  ],
+  "server_ip": "185.219.84.148:32171",
+  "discord_url": "https://discord.gg/yvFE4rjnjf"
+}
