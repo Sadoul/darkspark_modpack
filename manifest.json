@@ -1059,6 +1059,14 @@
       "sha1": "11d9502f3688d3f0a913b8578c07f37f78768129",
       "size": 99954037,
       "enabled": true
+    },
+    {
+      "name": "lobbymusic_beta2_0.jar",
+      "path": "mods/lobbymusic_beta2_0.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__lobbymusic_beta2_0.jar",
+      "sha1": "eefbd5532cd3c616aa58995d889c0c385affd458",
+      "size": 112737127,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
