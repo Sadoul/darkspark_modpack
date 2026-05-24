@@ -1043,6 +1043,22 @@
       "sha1": "58b6fe02ef22cb472c8b6b27c3e9ca464aef51bc",
       "size": 23407159,
       "enabled": true
+    },
+    {
+      "name": "danganost.jar",
+      "path": "mods/danganost.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganost.jar",
+      "sha1": "12824395ca9e5c721b7e5f23f3474f05d8fca936",
+      "size": 251518718,
+      "enabled": true
+    },
+    {
+      "name": "verseost.jar",
+      "path": "mods/verseost.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__verseost.jar",
+      "sha1": "11d9502f3688d3f0a913b8578c07f37f78768129",
+      "size": 99954037,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
