@@ -1067,14 +1067,6 @@
       "sha1": "eefbd5532cd3c616aa58995d889c0c385affd458",
       "size": 112737127,
       "enabled": true
-    },
-    {
-      "name": "Архив ZIP - WinRAR (3).zip",
-      "path": "mods/Архив ZIP - WinRAR (3).zip",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/Архив ZIP - WinRAR (3).zip",
-      "sha1": "99f5240d7534e9d0b54138ca27adfb2836f5eb34",
-      "size": 808397,
-      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
