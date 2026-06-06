@@ -1075,6 +1075,38 @@
       "sha1": "ec31097f39d5bbe1af69865fef69106a002246b0",
       "size": 148,
       "enabled": true
+    },
+    {
+      "name": "adolfzig.json",
+      "path": "emotes/adolfzig.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/adolfzig.json",
+      "sha1": "25bc319f06389c28f17cff72903035222e75b25b",
+      "size": 6190,
+      "enabled": true
+    },
+    {
+      "name": "anshu.json",
+      "path": "emotes/anshu.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/anshu.json",
+      "sha1": "bd1410d16ff8f5dbfc06928e449621f78176356b",
+      "size": 13567,
+      "enabled": true
+    },
+    {
+      "name": "bend_sit.json",
+      "path": "emotes/bend_sit.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/bend_sit.json",
+      "sha1": "041b87f9a1c66c932683ff82551da72992dec904",
+      "size": 1037,
+      "enabled": true
+    },
+    {
+      "name": "BOG.json",
+      "path": "emotes/BOG.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/BOG.json",
+      "sha1": "def47d1649089c4e397dd2317132a29a3074ba90",
+      "size": 15110,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
