@@ -1067,6 +1067,14 @@
       "sha1": "eefbd5532cd3c616aa58995d889c0c385affd458",
       "size": 112737127,
       "enabled": true
+    },
+    {
+      "name": "archive — копия.zip",
+      "path": "mods/archive — копия.zip",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/archive — копия.zip",
+      "sha1": "ec31097f39d5bbe1af69865fef69106a002246b0",
+      "size": 148,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
