@@ -3003,6 +3003,3750 @@
       "sha1": "f298c989237c60e2686920acede08df763a35ae0",
       "size": 47777,
       "enabled": true
+    },
+    {
+      "name": "SPE_Eat food1.json",
+      "path": "emotes/SPE_Eat food1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Eat food1.json",
+      "sha1": "0451c886968aaccbddcfdcafaae279d5c45cef6d",
+      "size": 73056,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Eat food1.png",
+      "path": "emotes/SPE_Eat food1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Eat food1.png",
+      "sha1": "7b49d1a698c5c2d08eadcb2ca3aeeb5dd2fa39e3",
+      "size": 53821,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Eat food2.json",
+      "path": "emotes/SPE_Eat food2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Eat food2.json",
+      "sha1": "9c877990020352a74e7d06bed3622f679762896a",
+      "size": 74417,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Eat food2.png",
+      "path": "emotes/SPE_Eat food2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Eat food2.png",
+      "sha1": "9de74d4000c2c1d4eb1bd22d1fb0be015035f2c3",
+      "size": 67193,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Egoist.json",
+      "path": "emotes/SPE_Egoist.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Egoist.json",
+      "sha1": "2b7bccd3a9857e1e5f202ec943ec5d0e2a274df1",
+      "size": 735632,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Egoist.png",
+      "path": "emotes/SPE_Egoist.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Egoist.png",
+      "sha1": "764a55bec6aecf5ae346b6672b668421bf4aeba8",
+      "size": 55769,
+      "enabled": true
+    },
+    {
+      "name": "SPE_EgoRock.json",
+      "path": "emotes/SPE_EgoRock.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_EgoRock.json",
+      "sha1": "196df180bc5606b2298b8299d4f8811744349a25",
+      "size": 782171,
+      "enabled": true
+    },
+    {
+      "name": "SPE_EgoRock.png",
+      "path": "emotes/SPE_EgoRock.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_EgoRock.png",
+      "sha1": "c427e15e898abd51aa93cd3b568018f8c3a6b8ec",
+      "size": 62280,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Elite Recharge.json",
+      "path": "emotes/SPE_Elite Recharge.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Elite Recharge.json",
+      "sha1": "1b0e24dadcc27826a823d576971bea3522b339c0",
+      "size": 739544,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Elite Recharge.png",
+      "path": "emotes/SPE_Elite Recharge.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Elite Recharge.png",
+      "sha1": "dc3d8a82502f3802fc344ce2614b195b76dd3e2f",
+      "size": 46623,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Embarrassing to sit.json",
+      "path": "emotes/SPE_Embarrassing to sit.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Embarrassing to sit.json",
+      "sha1": "cf273446317e637368edbdfb7b29790b654bd369",
+      "size": 53066,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Embarrassing to sit.png",
+      "path": "emotes/SPE_Embarrassing to sit.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Embarrassing to sit.png",
+      "sha1": "75206cf678c2941ae77529f4e2603e24297d0b01",
+      "size": 79830,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Envy Baby.json",
+      "path": "emotes/SPE_Envy Baby.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Envy Baby.json",
+      "sha1": "af28c8db63c47bc55986e9e6cf08c9e83e65f41a",
+      "size": 699485,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Envy Baby.png",
+      "path": "emotes/SPE_Envy Baby.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Envy Baby.png",
+      "sha1": "4998cf4f87fa044154902d2dcae53911473052c5",
+      "size": 56172,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Evelynn Stand.json",
+      "path": "emotes/SPE_Evelynn Stand.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Evelynn Stand.json",
+      "sha1": "0744c5f2704bad24896d17d88a4c62550fea04ae",
+      "size": 49088,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Evelynn Stand.png",
+      "path": "emotes/SPE_Evelynn Stand.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Evelynn Stand.png",
+      "sha1": "9f3f928fb9a4c5151937ea59a47c3bc17aa0ea70",
+      "size": 80802,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Expectation.json",
+      "path": "emotes/SPE_Expectation.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Expectation.json",
+      "sha1": "3c1fe56b169479bf98dd489f1ba29f9319571fe7",
+      "size": 418750,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Expectation.png",
+      "path": "emotes/SPE_Expectation.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Expectation.png",
+      "sha1": "6e85c5a5b462d890732b11a5ba715eab2b96c0d5",
+      "size": 52111,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Explain near the blackboard.json",
+      "path": "emotes/SPE_Explain near the blackboard.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Explain near the blackboard.json",
+      "sha1": "ab7df6027a605b414367dece1c5e25c1802db84f",
+      "size": 56273,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Explain near the blackboard.png",
+      "path": "emotes/SPE_Explain near the blackboard.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Explain near the blackboard.png",
+      "sha1": "9d86c79a0781bab92c8a9e7743ac0c54cf9d1b64",
+      "size": 91309,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Explain something on the table.json",
+      "path": "emotes/SPE_Explain something on the table.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Explain something on the table.json",
+      "sha1": "ed479d43891b5d4cfaa8163c3bc71287efaf587c",
+      "size": 65685,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Explain something on the table.png",
+      "path": "emotes/SPE_Explain something on the table.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Explain something on the table.png",
+      "sha1": "608c2ab31701f486a6fb53a75ab3e469ed82f171",
+      "size": 82237,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Extend your arms forward.json",
+      "path": "emotes/SPE_Extend your arms forward.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Extend your arms forward.json",
+      "sha1": "f2a13b407aad860540ed9754e42a0f4ece9d32a1",
+      "size": 18920,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Extend your arms forward.png",
+      "path": "emotes/SPE_Extend your arms forward.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Extend your arms forward.png",
+      "sha1": "1c6720b16c5d8186e1f8aa3bd2b2063b077f1ef8",
+      "size": 57598,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Facepalm.json",
+      "path": "emotes/SPE_Facepalm.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Facepalm.json",
+      "sha1": "fdf3559433e0a9bbd4415c6b6bdbddf97398ce70",
+      "size": 53433,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Facepalm.png",
+      "path": "emotes/SPE_Facepalm.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Facepalm.png",
+      "sha1": "acf5870f0a0bc3d512b2aa713b055a13af6fdb9a",
+      "size": 34015,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall drunk.json",
+      "path": "emotes/SPE_Fall drunk.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall drunk.json",
+      "sha1": "ece929eaeb65439930b9de401babc9d29fd2cb5a",
+      "size": 74994,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall drunk.png",
+      "path": "emotes/SPE_Fall drunk.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall drunk.png",
+      "sha1": "90ea87de4fb7554ffe86cc7ac761914271044e9a",
+      "size": 69581,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall like a soldier.json",
+      "path": "emotes/SPE_Fall like a soldier.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall like a soldier.json",
+      "sha1": "40ddc445d984b706c73b76268f27878ad99c08a0",
+      "size": 47819,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall like a soldier.png",
+      "path": "emotes/SPE_Fall like a soldier.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall like a soldier.png",
+      "sha1": "4d7ccc10e1ff085177d81e888a409474e3aa0783",
+      "size": 53073,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall1.json",
+      "path": "emotes/SPE_Fall1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall1.json",
+      "sha1": "917b1c77a43d4817e8cfa3dd13c30bd36635df2f",
+      "size": 33715,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall1.png",
+      "path": "emotes/SPE_Fall1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall1.png",
+      "sha1": "722ee0bbb9c28d7241b61c0522de3b450a0c52b0",
+      "size": 78656,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall2.json",
+      "path": "emotes/SPE_Fall2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall2.json",
+      "sha1": "c1504b509fad244870668bed42070ea66d154f9d",
+      "size": 28272,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fall2.png",
+      "path": "emotes/SPE_Fall2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fall2.png",
+      "sha1": "3960f94a4d3c899bda944633855bea37d0642053",
+      "size": 65952,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fast Forward.json",
+      "path": "emotes/SPE_Fast Forward.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fast Forward.json",
+      "sha1": "a0fdd9d5c7e36a4a9661aa00dd981ee97f05bdc1",
+      "size": 787880,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fast Forward.png",
+      "path": "emotes/SPE_Fast Forward.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fast Forward.png",
+      "sha1": "0b62a3ac30b89aeeaad65db6487f4189ec69fb5e",
+      "size": 52373,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fear.json",
+      "path": "emotes/SPE_Fear.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fear.json",
+      "sha1": "9c864a6b39956478b990540be28b8fa26dd95190",
+      "size": 140399,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fear.png",
+      "path": "emotes/SPE_Fear.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fear.png",
+      "sha1": "05340a30759778c6f01c2188f9c17d5ff823561a",
+      "size": 33840,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feel Special.json",
+      "path": "emotes/SPE_Feel Special.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feel Special.json",
+      "sha1": "92fa8f2e0fa2a0c3291069e54dea9a76b69adece",
+      "size": 123681,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feel Special.png",
+      "path": "emotes/SPE_Feel Special.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feel Special.png",
+      "sha1": "599d11cc0e95cf711a7d414dd468a9c9cf646391",
+      "size": 45318,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feels.json",
+      "path": "emotes/SPE_Feels.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feels.json",
+      "sha1": "b8b60e54427cc936024a2a85e09b6c97a0bc3598",
+      "size": 281902,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feels.png",
+      "path": "emotes/SPE_Feels.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feels.png",
+      "sha1": "44cd54dc598d8c36bcdf3438da24b12de3a99eaa",
+      "size": 51246,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feet down.json",
+      "path": "emotes/SPE_Feet down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feet down.json",
+      "sha1": "b0349c3f5582c9d45ac9045005cb9d19294254b0",
+      "size": 77944,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Feet down.png",
+      "path": "emotes/SPE_Feet down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Feet down.png",
+      "sha1": "30b886410a1a5639337123120847f8e22be8e735",
+      "size": 53580,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Few halves.json",
+      "path": "emotes/SPE_Few halves.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Few halves.json",
+      "sha1": "4b8bfa86f98ff567e9d807c813d600af98db685d",
+      "size": 121539,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Few halves.png",
+      "path": "emotes/SPE_Few halves.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Few halves.png",
+      "sha1": "c873888e726573a9e81dcb69c3e0b7b8377fe7ec",
+      "size": 50813,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose with a bow.json",
+      "path": "emotes/SPE_Fighting pose with a bow.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose with a bow.json",
+      "sha1": "b99f4ffac3dd33e05073fa55f4539b4aa665c792",
+      "size": 357567,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose with a bow.png",
+      "path": "emotes/SPE_Fighting pose with a bow.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose with a bow.png",
+      "sha1": "431bd37b4426df53f0243e535f2eb5a5396e54b7",
+      "size": 51716,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose with shild.json",
+      "path": "emotes/SPE_Fighting pose with shild.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose with shild.json",
+      "sha1": "d7ac9ccba1fa553efab9c76701ed30f27c588005",
+      "size": 357745,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose with shild.png",
+      "path": "emotes/SPE_Fighting pose with shild.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose with shild.png",
+      "sha1": "a62b9b40f69faaa6a56c4bde79efb9c7d83e5c6f",
+      "size": 56533,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose.json",
+      "path": "emotes/SPE_Fighting pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose.json",
+      "sha1": "debb9c8997a0edb17bb38e051c4e6e1430eb933d",
+      "size": 625589,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting pose.png",
+      "path": "emotes/SPE_Fighting pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting pose.png",
+      "sha1": "360ba0e3ccf97e3040486841444a14001b67ee0f",
+      "size": 41950,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting stance with swords.json",
+      "path": "emotes/SPE_Fighting stance with swords.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting stance with swords.json",
+      "sha1": "d81b7f5f6a543dcd911ffc813051a74ada4a8dce",
+      "size": 359827,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting stance with swords.png",
+      "path": "emotes/SPE_Fighting stance with swords.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting stance with swords.png",
+      "sha1": "5c6202f71bd3472bb5d2655e3a67e3f488346b32",
+      "size": 78016,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting stance.json",
+      "path": "emotes/SPE_Fighting stance.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting stance.json",
+      "sha1": "8a56e743f205587eac1d296e1f592efd050f42a7",
+      "size": 62211,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fighting stance.png",
+      "path": "emotes/SPE_Fighting stance.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fighting stance.png",
+      "sha1": "1f6a847566489d6d82e68e04725d06f582559ed9",
+      "size": 47119,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Finishing with a knife.json",
+      "path": "emotes/SPE_Finishing with a knife.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Finishing with a knife.json",
+      "sha1": "265b754540c3108e1a98da26dd73117c4e3eb9be",
+      "size": 778494,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Finishing with a knife.png",
+      "path": "emotes/SPE_Finishing with a knife.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Finishing with a knife.png",
+      "sha1": "6aed8937199c786be14d661941924169d0f9ffc3",
+      "size": 46954,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Finishing.json",
+      "path": "emotes/SPE_Finishing.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Finishing.json",
+      "sha1": "4587cc0339c8f226e64c5cc190f94da965a03e04",
+      "size": 723274,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Finishing.png",
+      "path": "emotes/SPE_Finishing.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Finishing.png",
+      "sha1": "2398ce6e7ee5a95872655700fe96b1e4c32ea463",
+      "size": 42326,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fishing standing up.json",
+      "path": "emotes/SPE_Fishing standing up.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fishing standing up.json",
+      "sha1": "29423ad6bddd4ac75247a5302419dbc970854c27",
+      "size": 216121,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fishing standing up.png",
+      "path": "emotes/SPE_Fishing standing up.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fishing standing up.png",
+      "sha1": "bee10e388d320eccaca19d8661bfd07594e81555",
+      "size": 81993,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fishing while sitting in a boat.json",
+      "path": "emotes/SPE_Fishing while sitting in a boat.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fishing while sitting in a boat.json",
+      "sha1": "186508f2f02aa13ba80871bfbc9b3b6aeba9aa86",
+      "size": 221622,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fishing while sitting in a boat.png",
+      "path": "emotes/SPE_Fishing while sitting in a boat.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fishing while sitting in a boat.png",
+      "sha1": "4695c98d755ea5d144bb97433dd5e4bce2730e88",
+      "size": 81823,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flight of Superman.json",
+      "path": "emotes/SPE_Flight of Superman.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flight of Superman.json",
+      "sha1": "f0ec6a15775839f1a5476980ce2847c085718cd4",
+      "size": 153240,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flight of Superman.png",
+      "path": "emotes/SPE_Flight of Superman.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flight of Superman.png",
+      "sha1": "98feb8d6e2444f8c63ec513a416316b38f5f2929",
+      "size": 60422,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flight of the Witch.json",
+      "path": "emotes/SPE_Flight of the Witch.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flight of the Witch.json",
+      "sha1": "d550b2d9e856d301f140fe79e67199f9bbaf9574",
+      "size": 742232,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flight of the Witch.png",
+      "path": "emotes/SPE_Flight of the Witch.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flight of the Witch.png",
+      "sha1": "d7b19c4b2cf88f5731fdb85133c5d414d4773eab",
+      "size": 52427,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Floss.json",
+      "path": "emotes/SPE_Floss.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Floss.json",
+      "sha1": "49a5f67a6e1aea7af17380f26e10f7afa97d376f",
+      "size": 313136,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Floss.png",
+      "path": "emotes/SPE_Floss.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Floss.png",
+      "sha1": "f802f3b83d639f00b4a35e1704bc02090b959512",
+      "size": 50565,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fly Apart.json",
+      "path": "emotes/SPE_Fly Apart.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fly Apart.json",
+      "sha1": "fc76e4977bd6c117129fcc3ea2c197aa5bf6298a",
+      "size": 266167,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fly Apart.png",
+      "path": "emotes/SPE_Fly Apart.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fly Apart.png",
+      "sha1": "0d535b476248a83824d3dae3c92098340183f6eb",
+      "size": 48052,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying face down.json",
+      "path": "emotes/SPE_Flying face down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying face down.json",
+      "sha1": "491be755e501cccf7113eac21f3266bbcfa02dbd",
+      "size": 112033,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying face down.png",
+      "path": "emotes/SPE_Flying face down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying face down.png",
+      "sha1": "be097e73f1a4fe850aa28a9592db07999a1d9488",
+      "size": 59099,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying on a broom.json",
+      "path": "emotes/SPE_Flying on a broom.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying on a broom.json",
+      "sha1": "86fcfc4b65f90ee44be41315ce2b3e2d50b40f0a",
+      "size": 609694,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying on a broom.png",
+      "path": "emotes/SPE_Flying on a broom.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying on a broom.png",
+      "sha1": "36794b2e1161b45748f5b074a0b432351e3f6324",
+      "size": 68614,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying on the sword.json",
+      "path": "emotes/SPE_Flying on the sword.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying on the sword.json",
+      "sha1": "89d04cdff3f2a9431e58ac3017056d9eebe163c3",
+      "size": 313378,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Flying on the sword.png",
+      "path": "emotes/SPE_Flying on the sword.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Flying on the sword.png",
+      "sha1": "919a5780c8b231cd29b163cf4833c91dcfebe5b9",
+      "size": 68442,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fold your hands in front of you.json",
+      "path": "emotes/SPE_Fold your hands in front of you.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fold your hands in front of you.json",
+      "sha1": "045ee64f1960cc73d93c0c80d2fa1a64d5df26a0",
+      "size": 12549,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fold your hands in front of you.png",
+      "path": "emotes/SPE_Fold your hands in front of you.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fold your hands in front of you.png",
+      "sha1": "c4f9fe728e24dbce7c31c8f9e0afc77e4e85e23d",
+      "size": 52441,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Foot tapping.json",
+      "path": "emotes/SPE_Foot tapping.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Foot tapping.json",
+      "sha1": "cadec63d07649d39740b37ef466387f111325378",
+      "size": 329634,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Foot tapping.png",
+      "path": "emotes/SPE_Foot tapping.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Foot tapping.png",
+      "sha1": "039997f9f528cb17fb03cdb0371be6d83e930f8d",
+      "size": 51964,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Footsteps.json",
+      "path": "emotes/SPE_Footsteps.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Footsteps.json",
+      "sha1": "813a7832c880cfb1a50048c8803956b23e4822e9",
+      "size": 125525,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Footsteps.png",
+      "path": "emotes/SPE_Footsteps.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Footsteps.png",
+      "sha1": "8dda9c1f1cfbbab67b11d2f81cdbfd5e0be61b07",
+      "size": 56195,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Forge.json",
+      "path": "emotes/SPE_Forge.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Forge.json",
+      "sha1": "bdd1f60e6a1eabb1e9a1fe2abb7d71bce81fb45e",
+      "size": 48985,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Forge.png",
+      "path": "emotes/SPE_Forge.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Forge.png",
+      "sha1": "b9225b35ad9e3123d12f6ae45a14f9bf73e49b96",
+      "size": 43458,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fortnite Dance.json",
+      "path": "emotes/SPE_Fortnite Dance.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fortnite Dance.json",
+      "sha1": "e87ceb43ce6c120e001fe41bb961d2f1c1283557",
+      "size": 532595,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fortnite Dance.png",
+      "path": "emotes/SPE_Fortnite Dance.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fortnite Dance.png",
+      "sha1": "08942375db3e955d7cbe0c914246d5eb1b3d70e3",
+      "size": 58444,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Forward somersault.json",
+      "path": "emotes/SPE_Forward somersault.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Forward somersault.json",
+      "sha1": "a60f58072bf626795fe26d0ed31772c7d0f6a317",
+      "size": 130428,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Forward somersault.png",
+      "path": "emotes/SPE_Forward somersault.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Forward somersault.png",
+      "sha1": "6e4140ab4ab14cceeda51056afd92a48542a10d1",
+      "size": 67612,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Frankenstein Pose.json",
+      "path": "emotes/SPE_Frankenstein Pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Frankenstein Pose.json",
+      "sha1": "d4977151d29ed66f4bcb8db5bef41da8fcb6e8a8",
+      "size": 715309,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Frankenstein Pose.png",
+      "path": "emotes/SPE_Frankenstein Pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Frankenstein Pose.png",
+      "sha1": "e5bad8f4cbf215d5a6df78eec784a814a17e3943",
+      "size": 56153,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Freeze.json",
+      "path": "emotes/SPE_Freeze.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Freeze.json",
+      "sha1": "b053af19275406435e14da4ff4eb9b47e2978217",
+      "size": 103152,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Freeze.png",
+      "path": "emotes/SPE_Freeze.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Freeze.png",
+      "sha1": "a06047ce6c55abc8e49d576dfdf4ca9b8726afd3",
+      "size": 69693,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fucking lying down.json",
+      "path": "emotes/SPE_Fucking lying down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fucking lying down.json",
+      "sha1": "3ceafc55becb9623a5eafd133ffe93cb65d3c73b",
+      "size": 94081,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fucking lying down.png",
+      "path": "emotes/SPE_Fucking lying down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fucking lying down.png",
+      "sha1": "c49efab0059562e90c008c332719c2998bf5eca0",
+      "size": 63913,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fucking sitting down.json",
+      "path": "emotes/SPE_Fucking sitting down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fucking sitting down.json",
+      "sha1": "8a1071baf185fbb59637d8f1912a11dfbb224326",
+      "size": 399828,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Fucking sitting down.png",
+      "path": "emotes/SPE_Fucking sitting down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Fucking sitting down.png",
+      "sha1": "c5f1bce1c5b5f119e6eb71a2e0200433cedcd0e2",
+      "size": 57293,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait with a sword on belt.json",
+      "path": "emotes/SPE_Gait with a sword on belt.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait with a sword on belt.json",
+      "sha1": "e73f842e651e559aed8d9bc4c7d5fcc44e9a32d2",
+      "size": 270010,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait with a sword on belt.png",
+      "path": "emotes/SPE_Gait with a sword on belt.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait with a sword on belt.png",
+      "sha1": "ce8b1156b5b9d5bf9932645ee3f89c670a25d95d",
+      "size": 55908,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait1.json",
+      "path": "emotes/SPE_Gait1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait1.json",
+      "sha1": "7c7ed702c8fca3ff6ebe829bf5bf19bbb053345f",
+      "size": 456956,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait1.png",
+      "path": "emotes/SPE_Gait1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait1.png",
+      "sha1": "4065af6b1d1722cc1ebcfa5a105da2da137f5fe4",
+      "size": 45368,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait2.json",
+      "path": "emotes/SPE_Gait2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait2.json",
+      "sha1": "c51edab57533934bc7f2a88ed0e187e144538f41",
+      "size": 535138,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait2.png",
+      "path": "emotes/SPE_Gait2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait2.png",
+      "sha1": "3ae9b242f4791cb6374f876297ad7e653c788ac2",
+      "size": 48880,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait3.json",
+      "path": "emotes/SPE_Gait3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait3.json",
+      "sha1": "a79af5ff3e9ceca0b723f815d0a46a9911d963da",
+      "size": 571461,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait3.png",
+      "path": "emotes/SPE_Gait3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait3.png",
+      "sha1": "43ff37f65c5129cb4602aa49903e33f47483992f",
+      "size": 59599,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait4.json",
+      "path": "emotes/SPE_Gait4.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait4.json",
+      "sha1": "7c998401421f6845a173f8d466402e551c8c76f5",
+      "size": 543413,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait4.png",
+      "path": "emotes/SPE_Gait4.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait4.png",
+      "sha1": "2fd1d7f86ee5df1afbb401e922f11990dceef64c",
+      "size": 46921,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait5.json",
+      "path": "emotes/SPE_Gait5.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait5.json",
+      "sha1": "14502db68fd5da4e99b9b3a89cb587d76c12c0e0",
+      "size": 239480,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait5.png",
+      "path": "emotes/SPE_Gait5.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait5.png",
+      "sha1": "1dd7c7ff25d87f667bdd0916ddae2ccd6b723420",
+      "size": 49681,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait7.json",
+      "path": "emotes/SPE_Gait7.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait7.json",
+      "sha1": "88f0af0089e2390da99d8a0a631bcfe691e903bf",
+      "size": 312957,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gait7.png",
+      "path": "emotes/SPE_Gait7.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gait7.png",
+      "sha1": "ca0785938f7ab245b50d3e6603a65789ffd6bdbd",
+      "size": 48988,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gangnam style1.json",
+      "path": "emotes/SPE_Gangnam style1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gangnam style1.json",
+      "sha1": "7ef42fcc65ff54e6d3ae519942d14591588cd92f",
+      "size": 82990,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gangnam style1.png",
+      "path": "emotes/SPE_Gangnam style1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gangnam style1.png",
+      "sha1": "931342f106ede6a99749452e487460a8f22f876b",
+      "size": 50978,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gangnam style2.json",
+      "path": "emotes/SPE_Gangnam style2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gangnam style2.json",
+      "sha1": "3f9fd2afee05175e52c3b4e4f7b32b5e4f3ef06d",
+      "size": 277647,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gangnam style2.png",
+      "path": "emotes/SPE_Gangnam style2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gangnam style2.png",
+      "sha1": "ace16bd3093aeb9a1f4b7912f79da2f26981bd3c",
+      "size": 45680,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gentelman.json",
+      "path": "emotes/SPE_Gentelman.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gentelman.json",
+      "sha1": "47711b8669c1f7cd6de7c73ce325f9fd473a7c05",
+      "size": 252393,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gentelman.png",
+      "path": "emotes/SPE_Gentelman.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gentelman.png",
+      "sha1": "86349d3aaf0696b0da16de5ad0880bb9a1afda46",
+      "size": 49679,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get Griddy.json",
+      "path": "emotes/SPE_Get Griddy.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get Griddy.json",
+      "sha1": "c653e5ab4040dead4ae3eacd962964be4f2c3a50",
+      "size": 776369,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get Griddy.png",
+      "path": "emotes/SPE_Get Griddy.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get Griddy.png",
+      "sha1": "c5a11c36d6e4ddd5b0d3ea65b4a53501f457322d",
+      "size": 55808,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get on one knee.json",
+      "path": "emotes/SPE_Get on one knee.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get on one knee.json",
+      "sha1": "ac59759c15c2e6e9b7f20de32a316b3bff6c2d68",
+      "size": 357615,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get on one knee.png",
+      "path": "emotes/SPE_Get on one knee.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get on one knee.png",
+      "sha1": "31b4ff8c4c95c32e62726c530d07b1ed698a7fca",
+      "size": 52226,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get out of the ground.json",
+      "path": "emotes/SPE_Get out of the ground.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get out of the ground.json",
+      "sha1": "a1836c25149b19596474e91aaa46789b3f4cf2fc",
+      "size": 737182,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get out of the ground.png",
+      "path": "emotes/SPE_Get out of the ground.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get out of the ground.png",
+      "sha1": "99fd773cc09056070c700956a97b5015efd80b57",
+      "size": 61743,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get scared.json",
+      "path": "emotes/SPE_Get scared.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get scared.json",
+      "sha1": "034945798c4e74f8d5e6e6d6982433b7b979a6c0",
+      "size": 154917,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Get scared.png",
+      "path": "emotes/SPE_Get scared.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Get scared.png",
+      "sha1": "53bd70115dc7b5bfb03121af4926c897360aa750",
+      "size": 60626,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Giorno giovanna pose.json",
+      "path": "emotes/SPE_Giorno giovanna pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Giorno giovanna pose.json",
+      "sha1": "52ba41d4062630ba53837bae3e3f4d8fcfd81577",
+      "size": 32480,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Giorno giovanna pose.png",
+      "path": "emotes/SPE_Giorno giovanna pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Giorno giovanna pose.png",
+      "sha1": "133b5e0037a297af3adbcd357297b5983c8ebd09",
+      "size": 78277,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give it here.json",
+      "path": "emotes/SPE_Give it here.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give it here.json",
+      "sha1": "4283262bd828dc9a92db5f6829b5ab801237edb9",
+      "size": 276448,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give it here.png",
+      "path": "emotes/SPE_Give it here.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give it here.png",
+      "sha1": "61e4860d370de00b809e1302eebeb4ddf007b2e1",
+      "size": 39267,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give money from the cash register.json",
+      "path": "emotes/SPE_Give money from the cash register.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give money from the cash register.json",
+      "sha1": "56d2d8f5ac0ab8c69eab9c3689c24207353cce93",
+      "size": 54960,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give money from the cash register.png",
+      "path": "emotes/SPE_Give money from the cash register.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give money from the cash register.png",
+      "sha1": "b7f63ed725c597a295da515fb3d2d0207a9b136c",
+      "size": 62515,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give That Wolf A Banana.json",
+      "path": "emotes/SPE_Give That Wolf A Banana.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give That Wolf A Banana.json",
+      "sha1": "96de6d71df91c448bf78cbf4895a86cdb2e0c6b4",
+      "size": 784712,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Give That Wolf A Banana.png",
+      "path": "emotes/SPE_Give That Wolf A Banana.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Give That Wolf A Banana.png",
+      "sha1": "c366cfd697e8f2dfcf01706071c648055e3db7f7",
+      "size": 51125,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Go crazy.json",
+      "path": "emotes/SPE_Go crazy.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Go crazy.json",
+      "sha1": "a592080fad81b7de60e60c11174832fba5d0c1a8",
+      "size": 175318,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Go crazy.png",
+      "path": "emotes/SPE_Go crazy.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Go crazy.png",
+      "sha1": "4dadd346448a5f8865b922316e5c843a1d4b431e",
+      "size": 60291,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Goat.json",
+      "path": "emotes/SPE_Goat.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Goat.json",
+      "sha1": "0fdd44e6772567aee4269fc182f42b069403dc54",
+      "size": 113747,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Goat.png",
+      "path": "emotes/SPE_Goat.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Goat.png",
+      "sha1": "e3230a9a29de006b08b291b6109b8762532842d5",
+      "size": 58986,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gopnik.json",
+      "path": "emotes/SPE_Gopnik.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gopnik.json",
+      "sha1": "19b07770e1532783ab35620aceff3e9fe14c4f0d",
+      "size": 715677,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gopnik.png",
+      "path": "emotes/SPE_Gopnik.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gopnik.png",
+      "sha1": "8e6ec5ce9091b17a6198a689d297bfeacab53db2",
+      "size": 46215,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Guess.json",
+      "path": "emotes/SPE_Guess.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Guess.json",
+      "sha1": "d76c8b2a58ccf6bbfa9a045b8d40eb00b2e7d541",
+      "size": 672584,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Guess.png",
+      "path": "emotes/SPE_Guess.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Guess.png",
+      "sha1": "3560d821dce2bea8f017571fb523325871c5f532",
+      "size": 56265,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gun Trick.json",
+      "path": "emotes/SPE_Gun Trick.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gun Trick.json",
+      "sha1": "0511a58b4de0b18d5e6e86ca9bc4158c33cb15af",
+      "size": 64620,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gun Trick.png",
+      "path": "emotes/SPE_Gun Trick.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gun Trick.png",
+      "sha1": "a7b1cccd9849c2605aac5fdb3cf911b71c2b48a9",
+      "size": 49861,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic1.json",
+      "path": "emotes/SPE_Gymnastic1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic1.json",
+      "sha1": "74998b893909376f49be3cfd76ef85d7853b9ac1",
+      "size": 46299,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic1.png",
+      "path": "emotes/SPE_Gymnastic1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic1.png",
+      "sha1": "15c7b680b406f2c5476a27a90c46c4c8d3142636",
+      "size": 59292,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic2.json",
+      "path": "emotes/SPE_Gymnastic2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic2.json",
+      "sha1": "bcebefeb64e4bbe1d0b9f7c4a49431bea3967584",
+      "size": 40935,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic2.png",
+      "path": "emotes/SPE_Gymnastic2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic2.png",
+      "sha1": "997f6cd6104028d5040a17b4f3cc5f954e5eefe9",
+      "size": 58886,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic3.json",
+      "path": "emotes/SPE_Gymnastic3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic3.json",
+      "sha1": "8a4f981485d948a771ed3f9e222e0d2bb004970f",
+      "size": 29429,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Gymnastic3.png",
+      "path": "emotes/SPE_Gymnastic3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Gymnastic3.png",
+      "sha1": "abb6cfc4066c1131bf7020eb1e7ced5f8329422c",
+      "size": 52243,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand on heart.json",
+      "path": "emotes/SPE_Hand on heart.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand on heart.json",
+      "sha1": "cb50df1c57a60a26a8636364d64ab453ff6166d4",
+      "size": 9063,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand on heart.png",
+      "path": "emotes/SPE_Hand on heart.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand on heart.png",
+      "sha1": "09c5fb3b37bdcc91df70cdc2c4588e232022c915",
+      "size": 34652,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike.json",
+      "path": "emotes/SPE_Hand strike.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike.json",
+      "sha1": "ce19a23c46ce145b8a17215bf96269e0af7069a6",
+      "size": 17423,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike.png",
+      "path": "emotes/SPE_Hand strike.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike.png",
+      "sha1": "ed8670ec651d43816aab8060c2994d422997c5f0",
+      "size": 70773,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike1.json",
+      "path": "emotes/SPE_Hand strike1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike1.json",
+      "sha1": "c9bb72217f973e7f065a8c10203d802c6e6d3900",
+      "size": 138986,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike1.png",
+      "path": "emotes/SPE_Hand strike1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike1.png",
+      "sha1": "3161b43033e6fe849ecdf850855c7706081b2ce1",
+      "size": 55674,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike2.json",
+      "path": "emotes/SPE_Hand strike2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike2.json",
+      "sha1": "d9101383fd811517154841340278416e2b734257",
+      "size": 138983,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike2.png",
+      "path": "emotes/SPE_Hand strike2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike2.png",
+      "sha1": "b7157a706830c9239b52b84a60bf6dbf663cd362",
+      "size": 57116,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike3.json",
+      "path": "emotes/SPE_Hand strike3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike3.json",
+      "sha1": "a8d2f559af46b94cfd32c1d3b221481c4e80f105",
+      "size": 147830,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hand strike3.png",
+      "path": "emotes/SPE_Hand strike3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hand strike3.png",
+      "sha1": "d2baaa69a26c403a4383363cbd1cbe959a9ce919",
+      "size": 52029,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands behind.json",
+      "path": "emotes/SPE_Hands behind.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands behind.json",
+      "sha1": "c8bbca3aa54604223db11fe22af531c13b57ea2c",
+      "size": 11736,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands behind.png",
+      "path": "emotes/SPE_Hands behind.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands behind.png",
+      "sha1": "eff4357ec19665818456cb4179473ce472d9a65c",
+      "size": 35591,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands on the belt.json",
+      "path": "emotes/SPE_Hands on the belt.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands on the belt.json",
+      "sha1": "643eea82d0496ae26f6345043646661e40bf370c",
+      "size": 17876,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands on the belt.png",
+      "path": "emotes/SPE_Hands on the belt.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands on the belt.png",
+      "sha1": "334fa32b536ebf5756bf1a886735238321c2cd23",
+      "size": 38431,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Handshake.json",
+      "path": "emotes/SPE_Handshake.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Handshake.json",
+      "sha1": "01ab5490475132c483ace138caba5da087305110",
+      "size": 76956,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Handshake.png",
+      "path": "emotes/SPE_Handshake.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Handshake.png",
+      "sha1": "8c56fc34034491623956887f5573ba35508bb2f3",
+      "size": 69462,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands_up.json",
+      "path": "emotes/SPE_Hands_up.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands_up.json",
+      "sha1": "227ca98265797cfd87e89d5986dfe88c4093d79e",
+      "size": 11716,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hands_Up.png",
+      "path": "emotes/SPE_Hands_Up.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hands_Up.png",
+      "sha1": "e1046f79b75f9cf775e718e6b34d62730d1f3b55",
+      "size": 34923,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hang yourself.json",
+      "path": "emotes/SPE_Hang yourself.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hang yourself.json",
+      "sha1": "29057c2c2d107b89a59813b486b937ec79777e2f",
+      "size": 722763,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hang yourself.png",
+      "path": "emotes/SPE_Hang yourself.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hang yourself.png",
+      "sha1": "f4f8cc038a8ad80bcee14ed3c4c1aef319ed6af1",
+      "size": 48689,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hanging out under substances.json",
+      "path": "emotes/SPE_Hanging out under substances.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hanging out under substances.json",
+      "sha1": "d238fe1de5a46574c645bd5f89b1ff4ac64b8975",
+      "size": 56599,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hanging out under substances.png",
+      "path": "emotes/SPE_Hanging out under substances.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hanging out under substances.png",
+      "sha1": "8af731512850456c5e81dc1f4a1cfc40dbdd702a",
+      "size": 61799,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Happy Night.json",
+      "path": "emotes/SPE_Happy Night.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Happy Night.json",
+      "sha1": "00a6ada29f00275c3eec3c87821293ef2dfe810a",
+      "size": 232766,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Happy Night.png",
+      "path": "emotes/SPE_Happy Night.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Happy Night.png",
+      "sha1": "1bc44f0ab5be11ffb6672cc9712f3b3e1e651b26",
+      "size": 64726,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Harpy Hare.json",
+      "path": "emotes/SPE_Harpy Hare.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Harpy Hare.json",
+      "sha1": "ca7d93b9bd39d14a2b6409fcf2005fc306f8065b",
+      "size": 641357,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Harpy Hare.png",
+      "path": "emotes/SPE_Harpy Hare.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Harpy Hare.png",
+      "sha1": "8d8ed8bb5137f902e90f13959d9c249f8f8de026",
+      "size": 38675,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hay harvesting.json",
+      "path": "emotes/SPE_Hay harvesting.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hay harvesting.json",
+      "sha1": "7054f531fcc6393f177c587840bae91c5fb7ea26",
+      "size": 51846,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hay harvesting.png",
+      "path": "emotes/SPE_Hay harvesting.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hay harvesting.png",
+      "sha1": "f48cfd9d8a3200a57ae0149a936dafe03b9743e0",
+      "size": 60633,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Haymaking with a scythe.json",
+      "path": "emotes/SPE_Haymaking with a scythe.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Haymaking with a scythe.json",
+      "sha1": "b034ee8fa184cfa880183f203627f3fc6a513245",
+      "size": 25948,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Haymaking with a scythe.png",
+      "path": "emotes/SPE_Haymaking with a scythe.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Haymaking with a scythe.png",
+      "sha1": "3affc75c00db24c2e6e09c93fc1b5f843beb4bf7",
+      "size": 40370,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Head tilts.json",
+      "path": "emotes/SPE_Head tilts.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Head tilts.json",
+      "sha1": "eb416a86772b6c4bce6fb49615c3ab793f75fb8a",
+      "size": 52357,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Head tilts.png",
+      "path": "emotes/SPE_Head tilts.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Head tilts.png",
+      "sha1": "ce804d675c9d6cb6d65ffb7acadb3537cabd93d3",
+      "size": 51721,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Headphones.json",
+      "path": "emotes/SPE_Headphones.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Headphones.json",
+      "sha1": "62580d0824b9bd1830eb7df7db9c3a131352522d",
+      "size": 83804,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Headphones.png",
+      "path": "emotes/SPE_Headphones.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Headphones.png",
+      "sha1": "e318db5b8a9a85753fb37b41dc8b9916230c3c72",
+      "size": 47257,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heart1.json",
+      "path": "emotes/SPE_Heart1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heart1.json",
+      "sha1": "8b919fbb2b416533fe0a824d45f340534c8ed005",
+      "size": 530599,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heart1.png",
+      "path": "emotes/SPE_Heart1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heart1.png",
+      "sha1": "728a5cb00ad20f7df4619b85d56c4142ef26372b",
+      "size": 34097,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heart2.json",
+      "path": "emotes/SPE_Heart2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heart2.json",
+      "sha1": "bdb693fb5e4fb958c52c4f0a01fda28b9ea57ae4",
+      "size": 516598,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heart2.png",
+      "path": "emotes/SPE_Heart2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heart2.png",
+      "sha1": "8138b2659d9d66946b77763f60bb9c39827c5d0c",
+      "size": 48521,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heavy blow of the stand.json",
+      "path": "emotes/SPE_Heavy blow of the stand.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heavy blow of the stand.json",
+      "sha1": "763c2d2eea292b476cea40ce8f3877996aca48a8",
+      "size": 259043,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Heavy blow of the stand.png",
+      "path": "emotes/SPE_Heavy blow of the stand.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Heavy blow of the stand.png",
+      "sha1": "f403a685e3f9b53c4dc7484f5ef4cbfde0ca3456",
+      "size": 78130,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hello.json",
+      "path": "emotes/SPE_Hello.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hello.json",
+      "sha1": "b3d51c3c4016636389c3044a43bca4ee29ee34d2",
+      "size": 250001,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hello.png",
+      "path": "emotes/SPE_Hello.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hello.png",
+      "sha1": "07b1bf67151bcb2185842d2f9878b93d26cad984",
+      "size": 33645,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Helltaker.json",
+      "path": "emotes/SPE_Helltaker.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Helltaker.json",
+      "sha1": "421a6d83862bdf15989b215ea231860b919dc96f",
+      "size": 46748,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Helltaker.png",
+      "path": "emotes/SPE_Helltaker.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Helltaker.png",
+      "sha1": "c0927cc575b98bab4be779375d948e9b2a6ffaf9",
+      "size": 80702,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit the door with an axe.json",
+      "path": "emotes/SPE_Hit the door with an axe.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit the door with an axe.json",
+      "sha1": "93d51debf5f7f1c83c00587330ad5b3f53f1eb03",
+      "size": 129784,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit the door with an axe.png",
+      "path": "emotes/SPE_Hit the door with an axe.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit the door with an axe.png",
+      "sha1": "3bf5cf78cc601a23f959c9601fb6655f48e2d60f",
+      "size": 54593,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit the ground with a sledgehammer.json",
+      "path": "emotes/SPE_Hit the ground with a sledgehammer.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit the ground with a sledgehammer.json",
+      "sha1": "17905fd5b97cf5b0e7aaf8fff370dd0e0f1339b9",
+      "size": 54933,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit the ground with a sledgehammer.png",
+      "path": "emotes/SPE_Hit the ground with a sledgehammer.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit the ground with a sledgehammer.png",
+      "sha1": "feb96fbfaaff389e09c2e8fc33726aec43a01ece",
+      "size": 49765,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit with a stick.json",
+      "path": "emotes/SPE_Hit with a stick.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit with a stick.json",
+      "sha1": "0671bcbf8fe8efb47993febfb9288e959b21f89b",
+      "size": 33153,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hit with a stick.png",
+      "path": "emotes/SPE_Hit with a stick.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hit with a stick.png",
+      "sha1": "2855a4cfde7b3f7cf8069f0b7b673979dedd33a1",
+      "size": 51750,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold the microphone.json",
+      "path": "emotes/SPE_Hold the microphone.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold the microphone.json",
+      "sha1": "0783290b9e26c9b4b912b053a184814b568e6896",
+      "size": 5107,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold the microphone.png",
+      "path": "emotes/SPE_Hold the microphone.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold the microphone.png",
+      "sha1": "b5ae338a0a62948b5635d5a4f37d55ad1997af88",
+      "size": 40205,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold the microphone1.json",
+      "path": "emotes/SPE_Hold the microphone1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold the microphone1.json",
+      "sha1": "b569ac2c3f40145939f68d5c025a64bee21da473",
+      "size": 9300,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold the microphone1.png",
+      "path": "emotes/SPE_Hold the microphone1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold the microphone1.png",
+      "sha1": "544f339b8b61dfebbfdb71e58c8b2978da2f220a",
+      "size": 38901,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold.json",
+      "path": "emotes/SPE_Hold.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold.json",
+      "sha1": "b4ad747e6d478ae01bfae28aa9f107fbcac6dcae",
+      "size": 9161,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hold.png",
+      "path": "emotes/SPE_Hold.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hold.png",
+      "sha1": "7e546966e1b8961a3fc02e15b3a4e82a5a51e6f6",
+      "size": 35262,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Holding hands.json",
+      "path": "emotes/SPE_Holding hands.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Holding hands.json",
+      "sha1": "7a01c742186660fa86d1df4964c71e323119ad63",
+      "size": 4360,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Holding hands.png",
+      "path": "emotes/SPE_Holding hands.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Holding hands.png",
+      "sha1": "9f30f1b1305e512c1cf42269aac9d46797507d7e",
+      "size": 35448,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Holding hands1.json",
+      "path": "emotes/SPE_Holding hands1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Holding hands1.json",
+      "sha1": "e6c5bf8394f54f947923afe32bc93cb28e808ada",
+      "size": 4283,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Holding hands1.png",
+      "path": "emotes/SPE_Holding hands1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Holding hands1.png",
+      "sha1": "bc4b5cf87560ea7922d31174e55485d8781c5af0",
+      "size": 35602,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopalong.json",
+      "path": "emotes/SPE_Hopalong.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopalong.json",
+      "sha1": "760fd18956bf4a2f7804034fc989414fe566a472",
+      "size": 187333,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopalong.png",
+      "path": "emotes/SPE_Hopalong.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopalong.png",
+      "sha1": "1203488e5a7186918577f187a3bf3136e899def1",
+      "size": 60463,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopeless gait.json",
+      "path": "emotes/SPE_Hopeless gait.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopeless gait.json",
+      "sha1": "8fe2ad406d6424e66766f7a4ad50e47266d94d08",
+      "size": 218096,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopeless gait.png",
+      "path": "emotes/SPE_Hopeless gait.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopeless gait.png",
+      "sha1": "16adf1d9a249654ae827ea02fd641b2477270622",
+      "size": 56526,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopeless to sit.json",
+      "path": "emotes/SPE_Hopeless to sit.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopeless to sit.json",
+      "sha1": "650608b8f820bc703558e064da32a049b117648d",
+      "size": 30384,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopeless to sit.png",
+      "path": "emotes/SPE_Hopeless to sit.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopeless to sit.png",
+      "sha1": "6dc5d53f4c1dc4685b17a45f7c6ee852b7516005",
+      "size": 73696,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopelessness.json",
+      "path": "emotes/SPE_Hopelessness.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopelessness.json",
+      "sha1": "62a7837489dc0a07459e87517a598f845b133a55",
+      "size": 82929,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hopelessness.png",
+      "path": "emotes/SPE_Hopelessness.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hopelessness.png",
+      "sha1": "80b069a0859d09d92868f2e6d828b6fa89a633c4",
+      "size": 59093,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hugs.json",
+      "path": "emotes/SPE_Hugs.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hugs.json",
+      "sha1": "22e0bf9c8cc0c045ba81b1ccd67034025b875d11",
+      "size": 59872,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hugs.png",
+      "path": "emotes/SPE_Hugs.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hugs.png",
+      "sha1": "0b8ecb5f73ca7cc5866d5b2540204ae118590787",
+      "size": 57173,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hype.json",
+      "path": "emotes/SPE_Hype.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hype.json",
+      "sha1": "f21de0f7d7ba4deada17f35af34e6d9170825d01",
+      "size": 605425,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hype.png",
+      "path": "emotes/SPE_Hype.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hype.png",
+      "sha1": "4fdfc82fda382984c20c9de3be7601dd18845a62",
+      "size": 45586,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hypnosis.json",
+      "path": "emotes/SPE_Hypnosis.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hypnosis.json",
+      "sha1": "acf29b62e69096a57d91f5feddd663c5e08af737",
+      "size": 583519,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hypnosis.png",
+      "path": "emotes/SPE_Hypnosis.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hypnosis.png",
+      "sha1": "283933f6d66cc7568d06072b7865d5396681c848",
+      "size": 55420,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hypnotic.json",
+      "path": "emotes/SPE_Hypnotic.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hypnotic.json",
+      "sha1": "ee5314e0bc16514456242b89bbc19b9fd203140e",
+      "size": 735202,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Hypnotic.png",
+      "path": "emotes/SPE_Hypnotic.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Hypnotic.png",
+      "sha1": "db500502f10e254e6a8d179fcad78747d3f96350",
+      "size": 44648,
+      "enabled": true
+    },
+    {
+      "name": "SPE_I lean against the wall to smoke.json",
+      "path": "emotes/SPE_I lean against the wall to smoke.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_I lean against the wall to smoke.json",
+      "sha1": "17064b36db46232e09ec6af68f591ccbe7e31c1e",
+      "size": 34336,
+      "enabled": true
+    },
+    {
+      "name": "SPE_I lean against the wall to smoke.png",
+      "path": "emotes/SPE_I lean against the wall to smoke.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_I lean against the wall to smoke.png",
+      "sha1": "fa65838438f0b4b5d24a153a2e8a3628670908e0",
+      "size": 40001,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Ichwillnicht.json",
+      "path": "emotes/SPE_Ichwillnicht.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Ichwillnicht.json",
+      "sha1": "80d6d324171f3b038742dc4d06645f2cb9d241fb",
+      "size": 718640,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Ichwillnicht.png",
+      "path": "emotes/SPE_Ichwillnicht.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Ichwillnicht.png",
+      "sha1": "f4d19c1e6622598970c2210ec123a4270d0f6918",
+      "size": 46817,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Idol.json",
+      "path": "emotes/SPE_Idol.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Idol.json",
+      "sha1": "54db5e097f03bfffd7495a520452602dcba588e2",
+      "size": 885920,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Idol.png",
+      "path": "emotes/SPE_Idol.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Idol.png",
+      "sha1": "0cb037aa889ca10228c4b5a011cdf92a111af116",
+      "size": 55714,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Imagine sitting down to work.json",
+      "path": "emotes/SPE_Imagine sitting down to work.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Imagine sitting down to work.json",
+      "sha1": "319b9ee7051fe5227db36ff2d8a16d2ccd128a5c",
+      "size": 139567,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Imagine sitting down to work.png",
+      "path": "emotes/SPE_Imagine sitting down to work.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Imagine sitting down to work.png",
+      "sha1": "737be31d6fe07bd30a7f239212bca18a991d70c0",
+      "size": 70952,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Imagine working standing up.json",
+      "path": "emotes/SPE_Imagine working standing up.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Imagine working standing up.json",
+      "sha1": "f1e34740b169eae27e5c8f073346356a4d7f41b3",
+      "size": 583017,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Imagine working standing up.png",
+      "path": "emotes/SPE_Imagine working standing up.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Imagine working standing up.png",
+      "sha1": "490ebda1555450ca02da0257f881a12a48dd6bde",
+      "size": 44152,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Important gait.json",
+      "path": "emotes/SPE_Important gait.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Important gait.json",
+      "sha1": "3b38472466ab5de1a289c92f28fb954b0f66e2dc",
+      "size": 186909,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Important gait.png",
+      "path": "emotes/SPE_Important gait.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Important gait.png",
+      "sha1": "29abd8e5698ea31747df6cdb0ba83be322684935",
+      "size": 55109,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Incomprehensible.json",
+      "path": "emotes/SPE_Incomprehensible.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Incomprehensible.json",
+      "sha1": "dc103dd6b534bd17fb3fb62296add95fd57855a6",
+      "size": 156953,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Incomprehensible.png",
+      "path": "emotes/SPE_Incomprehensible.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Incomprehensible.png",
+      "sha1": "53dbb519280f51dd6194198322a93e3ac201b55c",
+      "size": 53044,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Inject adrenaline.json",
+      "path": "emotes/SPE_Inject adrenaline.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Inject adrenaline.json",
+      "sha1": "91f31d9f4e2d4ef4088bf0488862d61e5129bf1d",
+      "size": 64132,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Inject adrenaline.png",
+      "path": "emotes/SPE_Inject adrenaline.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Inject adrenaline.png",
+      "sha1": "cf99c75f917ee4c1b8d6696d188dbaa563ba8825",
+      "size": 46796,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Internet.json",
+      "path": "emotes/SPE_Internet.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Internet.json",
+      "sha1": "2ae5d003ff4a1b6b3d8f1a839755cc05c661273e",
+      "size": 259570,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Internet.png",
+      "path": "emotes/SPE_Internet.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Internet.png",
+      "sha1": "05c79221efa45246f8fd0c2a40a3f7853cb9a007",
+      "size": 49768,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Iron Man Pose.json",
+      "path": "emotes/SPE_Iron Man Pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Iron Man Pose.json",
+      "sha1": "ec0b342dbc4a54d6e6230902f66962317ac5876f",
+      "size": 60017,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Iron Man Pose.png",
+      "path": "emotes/SPE_Iron Man Pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Iron Man Pose.png",
+      "sha1": "0c80328305a55443fa044f9f62bf119576d8dbda",
+      "size": 57614,
+      "enabled": true
+    },
+    {
+      "name": "SPE_It's time to shift.json",
+      "path": "emotes/SPE_It's time to shift.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_It's time to shift.json",
+      "sha1": "6239d949d4a1f44ba81eac5c12f1ad1dee011047",
+      "size": 117196,
+      "enabled": true
+    },
+    {
+      "name": "SPE_It's time to shift.png",
+      "path": "emotes/SPE_It's time to shift.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_It's time to shift.png",
+      "sha1": "5e7bdad67767e14107c19eccf1c1733fe7fd21a4",
+      "size": 77400,
+      "enabled": true
+    },
+    {
+      "name": "SPE_It's tragic to die.json",
+      "path": "emotes/SPE_It's tragic to die.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_It's tragic to die.json",
+      "sha1": "1d1f07f0adf3234cbf8d5898b8dce6147255ec28",
+      "size": 44190,
+      "enabled": true
+    },
+    {
+      "name": "SPE_It's tragic to die.png",
+      "path": "emotes/SPE_It's tragic to die.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_It's tragic to die.png",
+      "sha1": "2ab59faa7ffc30b603087dd8b9c52fa1befe15ce",
+      "size": 48091,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jerk.json",
+      "path": "emotes/SPE_Jerk.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jerk.json",
+      "sha1": "f3d601fae4febb0b2d8da71dd2d50c144ca11639",
+      "size": 69629,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jerk.png",
+      "path": "emotes/SPE_Jerk.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jerk.png",
+      "sha1": "0d8f1414dd0547a7e997e4fe0b3603f8d2c90afc",
+      "size": 58781,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jerk1.json",
+      "path": "emotes/SPE_Jerk1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jerk1.json",
+      "sha1": "c9b08044694878c2d9a9ee1d480a3dc58d9a3b27",
+      "size": 223576,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jerk1.png",
+      "path": "emotes/SPE_Jerk1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jerk1.png",
+      "sha1": "0078d710c9ae8f463ae4473e78bd24e2061c4693",
+      "size": 49729,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jinx Stand.json",
+      "path": "emotes/SPE_Jinx Stand.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jinx Stand.json",
+      "sha1": "00433125772a6a50ba252a6bda824c1176ae7f5f",
+      "size": 42520,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jinx Stand.png",
+      "path": "emotes/SPE_Jinx Stand.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jinx Stand.png",
+      "sha1": "e381c9fcbc19ded80d85c018a8ca2f58ff0d89f2",
+      "size": 90575,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose1.json",
+      "path": "emotes/SPE_Jojo-pose1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose1.json",
+      "sha1": "68c0329ce3f8a96ffba1df4a80f7eb511da793cf",
+      "size": 357742,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose1.png",
+      "path": "emotes/SPE_Jojo-pose1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose1.png",
+      "sha1": "f53a9ee140149d1b84d8405c17e81adda5a1c1ee",
+      "size": 56343,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose2.json",
+      "path": "emotes/SPE_Jojo-pose2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose2.json",
+      "sha1": "80c1b0d93cd9f9f0898652a3c581dc64464c9ef3",
+      "size": 356220,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose2.png",
+      "path": "emotes/SPE_Jojo-pose2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose2.png",
+      "sha1": "dbece94fd410e5013949a8f4f5a307b3c6501043",
+      "size": 51519,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose3.json",
+      "path": "emotes/SPE_Jojo-pose3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose3.json",
+      "sha1": "a472351af81f218059a21742af5aa8b098b2a154",
+      "size": 355782,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose3.png",
+      "path": "emotes/SPE_Jojo-pose3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose3.png",
+      "sha1": "29ebc0c67f86825e40694932253630803f26edc9",
+      "size": 59697,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose4.json",
+      "path": "emotes/SPE_Jojo-pose4.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose4.json",
+      "sha1": "b0bbc4950198d4e699bad3199236f21428150a96",
+      "size": 357614,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose4.png",
+      "path": "emotes/SPE_Jojo-pose4.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose4.png",
+      "sha1": "ec8adcbe2da170a5a00f8c37e13b83e0b391032f",
+      "size": 51377,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose5.json",
+      "path": "emotes/SPE_Jojo-pose5.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose5.json",
+      "sha1": "d6a05a98f6e332999c7b41c6d2fb6003d53b022f",
+      "size": 446752,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose5.png",
+      "path": "emotes/SPE_Jojo-pose5.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose5.png",
+      "sha1": "418a356606feca026d2e178d638a3c82163e1e2d",
+      "size": 47771,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose6.json",
+      "path": "emotes/SPE_Jojo-pose6.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose6.json",
+      "sha1": "13236f6a04605a69ea411f5c3bc7b3d4f3326aa7",
+      "size": 357307,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose6.png",
+      "path": "emotes/SPE_Jojo-pose6.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose6.png",
+      "sha1": "fdd3fc94e9f4c83c4cde48a86071f34e5d1ae858",
+      "size": 51396,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose7.json",
+      "path": "emotes/SPE_Jojo-pose7.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose7.json",
+      "sha1": "d7e79dd96490920d684405f7d49d6cd897633184",
+      "size": 41237,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose7.png",
+      "path": "emotes/SPE_Jojo-pose7.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose7.png",
+      "sha1": "2ad28159ca337b5f0d6289449b0e4d272a783356",
+      "size": 82656,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose8.json",
+      "path": "emotes/SPE_Jojo-pose8.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose8.json",
+      "sha1": "d111ce9afa4c5bfa523a92c361bcf8da87651a5b",
+      "size": 57767,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jojo-pose8.png",
+      "path": "emotes/SPE_Jojo-pose8.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jojo-pose8.png",
+      "sha1": "11424ed91e468eb91ad1ee92536b73f5cf34c399",
+      "size": 96006,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Joy.json",
+      "path": "emotes/SPE_Joy.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Joy.json",
+      "sha1": "88e8b07c492fe4efc80e6f0b35e01a8cc5e27ff2",
+      "size": 240670,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Joy.png",
+      "path": "emotes/SPE_Joy.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Joy.png",
+      "sha1": "6ea73c0c4ec20fde72b522c7c430f75bef9cbd4a",
+      "size": 41419,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump on the spot.json",
+      "path": "emotes/SPE_Jump on the spot.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump on the spot.json",
+      "sha1": "06c3cf0e53b26f85c7691bd8fd78f2b1b4a977c5",
+      "size": 55804,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump on the spot.png",
+      "path": "emotes/SPE_Jump on the spot.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump on the spot.png",
+      "sha1": "ed6918129c75678114621765278886e0e2985613",
+      "size": 40242,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump over a block.json",
+      "path": "emotes/SPE_Jump over a block.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump over a block.json",
+      "sha1": "5a3695af8a7c0d9ec57a3746917e7b0fb15efa86",
+      "size": 18907,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump over a block.png",
+      "path": "emotes/SPE_Jump over a block.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump over a block.png",
+      "sha1": "4e4ef02e63acc4fefe25b4ac6f5cfafab2507f52",
+      "size": 45121,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump shot.json",
+      "path": "emotes/SPE_Jump shot.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump shot.json",
+      "sha1": "0bb29e45b16da2b1005437d71441acbedbdf6688",
+      "size": 244465,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump shot.png",
+      "path": "emotes/SPE_Jump shot.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump shot.png",
+      "sha1": "5660c0d3cba31bbdc8e2ebaaaae724d7a706c46e",
+      "size": 64671,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump sideways over a block1.json",
+      "path": "emotes/SPE_Jump sideways over a block1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump sideways over a block1.json",
+      "sha1": "8f7a3cec9e426f9cc401ce3d422d518805c67873",
+      "size": 17707,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump sideways over a block1.png",
+      "path": "emotes/SPE_Jump sideways over a block1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump sideways over a block1.png",
+      "sha1": "4b400bd85f6b21bcec1cbc5dc0a1663d5fe4d3e7",
+      "size": 50597,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump sideways over a block2.json",
+      "path": "emotes/SPE_Jump sideways over a block2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump sideways over a block2.json",
+      "sha1": "52283fb497816b957cc817d693e85fc675e09af5",
+      "size": 17696,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump sideways over a block2.png",
+      "path": "emotes/SPE_Jump sideways over a block2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump sideways over a block2.png",
+      "sha1": "b944fedf30d522cdd817a63d5dbde009a5782487",
+      "size": 55251,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump to the floor.json",
+      "path": "emotes/SPE_Jump to the floor.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump to the floor.json",
+      "sha1": "0071715e9c82625fae80787ba4efb2eedee7c42f",
+      "size": 56221,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump to the floor.png",
+      "path": "emotes/SPE_Jump to the floor.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump to the floor.png",
+      "sha1": "0b6068fa46b091536986488ce824dd7d850bff6c",
+      "size": 44091,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump.json",
+      "path": "emotes/SPE_Jump.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump.json",
+      "sha1": "3ec6a601dd58eac1566c93aee53dda7d63d65ae4",
+      "size": 60889,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jump.png",
+      "path": "emotes/SPE_Jump.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jump.png",
+      "sha1": "b3dcd0270e41ffc389a54d7ef29659d3bc4e50b4",
+      "size": 77968,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jumping.json",
+      "path": "emotes/SPE_Jumping.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jumping.json",
+      "sha1": "a9a70d4e3fd6b507ba41304256a9272f0799d86e",
+      "size": 53806,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jumping.png",
+      "path": "emotes/SPE_Jumping.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jumping.png",
+      "sha1": "cace7ebc96b9dae8d86ac834df51d7af85fd94bf",
+      "size": 52935,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jumpstyle.json",
+      "path": "emotes/SPE_Jumpstyle.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jumpstyle.json",
+      "sha1": "57ff254cc9d3709f30e1966ca9eba68c43c3c683",
+      "size": 769868,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Jumpstyle.png",
+      "path": "emotes/SPE_Jumpstyle.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Jumpstyle.png",
+      "sha1": "b9e3e3f4337e2f9e8b42a0e8057acc84410ab803",
+      "size": 66110,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Just Go.json",
+      "path": "emotes/SPE_Just Go.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Just Go.json",
+      "sha1": "838c55aa4028db73fd38e99f1a46446b00691867",
+      "size": 758955,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Just Go.png",
+      "path": "emotes/SPE_Just Go.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Just Go.png",
+      "sha1": "cc6bb79b4ed814a289e255a53554cd0e15cdd247",
+      "size": 48952,
+      "enabled": true
+    },
+    {
+      "name": "SPE_JustDance.json",
+      "path": "emotes/SPE_JustDance.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_JustDance.json",
+      "sha1": "e5a1c42dd64145453f33b56881749e7d9e490d9a",
+      "size": 718018,
+      "enabled": true
+    },
+    {
+      "name": "SPE_JustDance.png",
+      "path": "emotes/SPE_JustDance.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_JustDance.png",
+      "sha1": "c64fe3d3dfc136723dde29db3b0ba0f78fc2fc89",
+      "size": 53776,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kakashi Pose.json",
+      "path": "emotes/SPE_Kakashi Pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kakashi Pose.json",
+      "sha1": "1193a4931f4897b3f2164c6e468601cfca825f28",
+      "size": 26044,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kakashi Pose.png",
+      "path": "emotes/SPE_Kakashi Pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kakashi Pose.png",
+      "sha1": "5d49736913897f7dad6256031accc4db9dc8bb13",
+      "size": 82872,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kaoru Pose.json",
+      "path": "emotes/SPE_Kaoru Pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kaoru Pose.json",
+      "sha1": "3a7884183bbea237b05326b5d7b2d916e295f195",
+      "size": 32874,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kaoru Pose.png",
+      "path": "emotes/SPE_Kaoru Pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kaoru Pose.png",
+      "sha1": "53e94e13525d5dd6cee090756dfd1eac5fa86999",
+      "size": 86106,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Karate.json",
+      "path": "emotes/SPE_Karate.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Karate.json",
+      "sha1": "589993b1a38da8a2333c8465053c85d122ca5dc0",
+      "size": 90098,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Karate.png",
+      "path": "emotes/SPE_Karate.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Karate.png",
+      "sha1": "3bdf8aa66c1c277d7904835cf5494c62a3c5b266",
+      "size": 55115,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike1.json",
+      "path": "emotes/SPE_Katana strike1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike1.json",
+      "sha1": "2fcfbe9ae91feceb7b3e1d8ca08da5efc29425e8",
+      "size": 189329,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike1.png",
+      "path": "emotes/SPE_Katana strike1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike1.png",
+      "sha1": "0d1c14e219d8b51e033b3fa4a8b642044568b810",
+      "size": 43120,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike2.json",
+      "path": "emotes/SPE_Katana strike2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike2.json",
+      "sha1": "0d96211128969e5a7352ebfd9f58a0cfd6e77ec1",
+      "size": 199042,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike2.png",
+      "path": "emotes/SPE_Katana strike2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike2.png",
+      "sha1": "7cabf197694c1dccc0087655f3ef47fc1cc50156",
+      "size": 27394,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike3.json",
+      "path": "emotes/SPE_Katana strike3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike3.json",
+      "sha1": "916635c4aac7c3f13afdcc1a565267ad546cc997",
+      "size": 152373,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Katana strike3.png",
+      "path": "emotes/SPE_Katana strike3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Katana strike3.png",
+      "sha1": "7d8335fb02bb9087a3ddab3533d06ddbbe0ac1ed",
+      "size": 33608,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kazotsky Kick.json",
+      "path": "emotes/SPE_Kazotsky Kick.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kazotsky Kick.json",
+      "sha1": "c4a1f76cd69b97e6800397bd6b4750e515245d39",
+      "size": 94290,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kazotsky Kick.png",
+      "path": "emotes/SPE_Kazotsky Kick.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kazotsky Kick.png",
+      "sha1": "9079d0f1504d4350b447d6f851f8f6274b8c169c",
+      "size": 52500,
+      "enabled": true
+    },
+    {
+      "name": "SPE_KDA_Popstar.json",
+      "path": "emotes/SPE_KDA_Popstar.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_KDA_Popstar.json",
+      "sha1": "3831e781e8d7007e24d1aa650e22a988102c1a4f",
+      "size": 708719,
+      "enabled": true
+    },
+    {
+      "name": "SPE_KDA_Popstar.png",
+      "path": "emotes/SPE_KDA_Popstar.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_KDA_Popstar.png",
+      "sha1": "92305b979822354035a9f6417e013a3b3dab04ca",
+      "size": 52030,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Keep the safety on the weapon.json",
+      "path": "emotes/SPE_Keep the safety on the weapon.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Keep the safety on the weapon.json",
+      "sha1": "d37f2f544e27b666c369c7ae10b87ce2a69e1184",
+      "size": 11406,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Keep the safety on the weapon.png",
+      "path": "emotes/SPE_Keep the safety on the weapon.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Keep the safety on the weapon.png",
+      "sha1": "202fe3c6faeced513b8c4b5e0c76910bdf65f073",
+      "size": 50891,
+      "enabled": true
+    },
+    {
+      "name": "SPE_KeepUp.json",
+      "path": "emotes/SPE_KeepUp.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_KeepUp.json",
+      "sha1": "bd0e8d11193b6623657b1ddaa0297b6bccbdb05b",
+      "size": 732200,
+      "enabled": true
+    },
+    {
+      "name": "SPE_KeepUp.png",
+      "path": "emotes/SPE_KeepUp.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_KeepUp.png",
+      "sha1": "30d054be35a9d5c52fa48794702aa7db707207b9",
+      "size": 58694,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kick out.json",
+      "path": "emotes/SPE_Kick out.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kick out.json",
+      "sha1": "834ea5ad53c6eb90aef4d23dd57f5137fbffc9d5",
+      "size": 38737,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kick out.png",
+      "path": "emotes/SPE_Kick out.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kick out.png",
+      "sha1": "0ea3b7aef1b84e1f5c2dd2a86d00171a0c5502c4",
+      "size": 64553,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kick.json",
+      "path": "emotes/SPE_Kick.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kick.json",
+      "sha1": "f810b17bd538ad27f3262935e7847b1b5da4b50f",
+      "size": 18774,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kick.png",
+      "path": "emotes/SPE_Kick.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kick.png",
+      "sha1": "353324213a9c0ac6fc95a9ddcf08334af65336cd",
+      "size": 79939,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kickboxing.json",
+      "path": "emotes/SPE_Kickboxing.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kickboxing.json",
+      "sha1": "18ace6b7cdb1162dbaeb063dcd7ae6456650a7c4",
+      "size": 83458,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kickboxing.png",
+      "path": "emotes/SPE_Kickboxing.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kickboxing.png",
+      "sha1": "b9714078093aeddc244a379b839b5667db5e486c",
+      "size": 50574,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kill yourself with a katana.json",
+      "path": "emotes/SPE_Kill yourself with a katana.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kill yourself with a katana.json",
+      "sha1": "a0ccab711e93fec6135b336189a9f0f4114e8a8c",
+      "size": 50033,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kill yourself with a katana.png",
+      "path": "emotes/SPE_Kill yourself with a katana.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kill yourself with a katana.png",
+      "sha1": "d345165e2cded3474ae1ff8c59ac1fd13ed63269",
+      "size": 58719,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Killer's gait.json",
+      "path": "emotes/SPE_Killer's gait.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Killer's gait.json",
+      "sha1": "9c409211ee9b8a77393de784a8ef87723efb75e9",
+      "size": 162320,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Killer's gait.png",
+      "path": "emotes/SPE_Killer's gait.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Killer's gait.png",
+      "sha1": "c575de5d9f2b695d07048f35454c6e48da8dfedf",
+      "size": 59013,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kira Yoshikage 's pose.json",
+      "path": "emotes/SPE_Kira Yoshikage 's pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kira Yoshikage 's pose.json",
+      "sha1": "eed54fb2f44fb13e558e2257bf78b6cd404bd26e",
+      "size": 37695,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kira Yoshikage 's pose.png",
+      "path": "emotes/SPE_Kira Yoshikage 's pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kira Yoshikage 's pose.png",
+      "sha1": "6415481c92ef1447e5c15a8df0fa35222863adb5",
+      "size": 66489,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kiss your feet.json",
+      "path": "emotes/SPE_Kiss your feet.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kiss your feet.json",
+      "sha1": "a141f30aee4a2d9620fb02ce19fc06f66500c396",
+      "size": 140315,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kiss your feet.png",
+      "path": "emotes/SPE_Kiss your feet.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kiss your feet.png",
+      "sha1": "1911e45e1f9922a075fa8f1ed53396dc010063dc",
+      "size": 73390,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Knee twists.json",
+      "path": "emotes/SPE_Knee twists.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Knee twists.json",
+      "sha1": "fc1cfc2a3f5eae5d3c40e94790249810e3ad3620",
+      "size": 62699,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Knee twists.png",
+      "path": "emotes/SPE_Knee twists.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Knee twists.png",
+      "sha1": "8bac01171ba580d57575f7c5bf5127644293b3b5",
+      "size": 59394,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kneel down with your hands back.json",
+      "path": "emotes/SPE_Kneel down with your hands back.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kneel down with your hands back.json",
+      "sha1": "32fa095b8ca7ce7ae9df216f708fd279c631a677",
+      "size": 27488,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kneel down with your hands back.png",
+      "path": "emotes/SPE_Kneel down with your hands back.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kneel down with your hands back.png",
+      "sha1": "976677b745dfcf4c1a341b3d23314eae0cf92c1f",
+      "size": 37772,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kneel down.json",
+      "path": "emotes/SPE_Kneel down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kneel down.json",
+      "sha1": "de6e4d69ac3a683664f02a8214e0e93402923a14",
+      "size": 16913,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kneel down.png",
+      "path": "emotes/SPE_Kneel down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kneel down.png",
+      "sha1": "a755d63a83f376fef2b6873644d5f02d9fb2d132",
+      "size": 44024,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Knocking on the door.json",
+      "path": "emotes/SPE_Knocking on the door.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Knocking on the door.json",
+      "sha1": "8142e13e57cdc9f493012cf9228386a9feec3766",
+      "size": 626650,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Knocking on the door.png",
+      "path": "emotes/SPE_Knocking on the door.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Knocking on the door.png",
+      "sha1": "831d5493d43755158b67140d8fb7f39a30cb09d0",
+      "size": 53476,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kochak.json",
+      "path": "emotes/SPE_Kochak.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kochak.json",
+      "sha1": "e56bc60a7412bd7ca75884ab3d520305cefbba76",
+      "size": 59798,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kochak.png",
+      "path": "emotes/SPE_Kochak.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kochak.png",
+      "sha1": "c1251a386e93d6966e31966baab8c5b5d268c46a",
+      "size": 50658,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Koi.json",
+      "path": "emotes/SPE_Koi.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Koi.json",
+      "sha1": "1a882eba27f6d33d1b8082f95788bbf6848cf5a0",
+      "size": 512264,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Koi.png",
+      "path": "emotes/SPE_Koi.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Koi.png",
+      "sha1": "5b7628fc7bd60955c052199427bd7efcb43d71b6",
+      "size": 49418,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kotinash.json",
+      "path": "emotes/SPE_Kotinash.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kotinash.json",
+      "sha1": "7efe58fc4b86847fa8d2fb209ffe45d6d1084940",
+      "size": 143922,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Kotinash.png",
+      "path": "emotes/SPE_Kotinash.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Kotinash.png",
+      "sha1": "328216f350004901ae1a17144f390c980877f0a5",
+      "size": 54031,
+      "enabled": true
+    },
+    {
+      "name": "SPE_lamama.json",
+      "path": "emotes/SPE_lamama.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_lamama.json",
+      "sha1": "aa8239d4efbc5a994fb352dc985286816ce92f9c",
+      "size": 760652,
+      "enabled": true
+    },
+    {
+      "name": "SPE_lamama.png",
+      "path": "emotes/SPE_lamama.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_lamama.png",
+      "sha1": "4f70fca19355ba07db01d03cd2a3b6da9d57431b",
+      "size": 41071,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Laugh.json",
+      "path": "emotes/SPE_Laugh.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Laugh.json",
+      "sha1": "6a40668a7300687c6a29746302257490b7ae0271",
+      "size": 17448,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Laugh.png",
+      "path": "emotes/SPE_Laugh.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Laugh.png",
+      "sha1": "966ba8814806dc47a9e746032034217a02ee598d",
+      "size": 32675,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lay.json",
+      "path": "emotes/SPE_Lay.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lay.json",
+      "sha1": "59f568948ef4a6ae53b8b4d3227d9843b11702b1",
+      "size": 14518,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lay.png",
+      "path": "emotes/SPE_Lay.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lay.png",
+      "sha1": "6985d439f3974fcace0754818b9c417f7ef6e35a",
+      "size": 45217,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean back on the block.json",
+      "path": "emotes/SPE_Lean back on the block.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean back on the block.json",
+      "sha1": "cb4b280d635298e8ff2f485754234dd397052a1f",
+      "size": 43071,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean back on the block.png",
+      "path": "emotes/SPE_Lean back on the block.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean back on the block.png",
+      "sha1": "b0ebbe68fc5890cafb0b95f638d2c0d5e9265ff9",
+      "size": 48716,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean in front of the block.json",
+      "path": "emotes/SPE_Lean in front of the block.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean in front of the block.json",
+      "sha1": "c78ae6a6d9f9b16498b17405a1ac7a61dc9be798",
+      "size": 54137,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean in front of the block.png",
+      "path": "emotes/SPE_Lean in front of the block.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean in front of the block.png",
+      "sha1": "4796d94292ec8da76a33303ec4485d4e25fbef15",
+      "size": 74425,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean with a straight hand against the wall.json",
+      "path": "emotes/SPE_Lean with a straight hand against the wall.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean with a straight hand against the wall.json",
+      "sha1": "dd03c7a0bbb50c74e4e52fc82aeac3f96948be34",
+      "size": 40720,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean with a straight hand against the wall.png",
+      "path": "emotes/SPE_Lean with a straight hand against the wall.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean with a straight hand against the wall.png",
+      "sha1": "896cd8d63a30bf2704fa7c256907642e71161882",
+      "size": 35759,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean with a straight hand against the wall1.json",
+      "path": "emotes/SPE_Lean with a straight hand against the wall1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean with a straight hand against the wall1.json",
+      "sha1": "0656ce8ce0f7bf960cc00c257e2f6a37cdcba874",
+      "size": 40489,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean with a straight hand against the wall1.png",
+      "path": "emotes/SPE_Lean with a straight hand against the wall1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean with a straight hand against the wall1.png",
+      "sha1": "98eea2192a7664d6048d7bf7653632f1ae819978",
+      "size": 36338,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your elbow on the wall.json",
+      "path": "emotes/SPE_Lean your elbow on the wall.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your elbow on the wall.json",
+      "sha1": "60bda3264c50b75af9182838500a2effe77efc6c",
+      "size": 38869,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your elbow on the wall.png",
+      "path": "emotes/SPE_Lean your elbow on the wall.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your elbow on the wall.png",
+      "sha1": "3d88b48841a9865667d3ba73be934447cd52a7f4",
+      "size": 40373,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your elbow on the wall1.json",
+      "path": "emotes/SPE_Lean your elbow on the wall1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your elbow on the wall1.json",
+      "sha1": "492d580e9b0080d5cd4a81b9398f16cc56eeaa30",
+      "size": 38889,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your elbow on the wall1.png",
+      "path": "emotes/SPE_Lean your elbow on the wall1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your elbow on the wall1.png",
+      "sha1": "13edf19fecd4f62df1b07f5ade79bf48b510a4ae",
+      "size": 41710,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your hand on the block.json",
+      "path": "emotes/SPE_Lean your hand on the block.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your hand on the block.json",
+      "sha1": "7d0c11e8d6dfc9a49d7808f69d6344e2b403a923",
+      "size": 38052,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your hand on the block.png",
+      "path": "emotes/SPE_Lean your hand on the block.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your hand on the block.png",
+      "sha1": "062e22816b85d96d7ee6cd56ab08a2f250a371e1",
+      "size": 41823,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your hand on the block1.json",
+      "path": "emotes/SPE_Lean your hand on the block1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your hand on the block1.json",
+      "sha1": "5242e5f54243b72277c6e104077b6c369fb11dcc",
+      "size": 38113,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lean your hand on the block1.png",
+      "path": "emotes/SPE_Lean your hand on the block1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lean your hand on the block1.png",
+      "sha1": "595055e995e7cc0d79b1959f699974e3c8f235bb",
+      "size": 42122,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Leaning to the sides.json",
+      "path": "emotes/SPE_Leaning to the sides.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Leaning to the sides.json",
+      "sha1": "feaf18b26a6236fd196b175b800634c9cc8bf8d3",
+      "size": 67509,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Leaning to the sides.png",
+      "path": "emotes/SPE_Leaning to the sides.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Leaning to the sides.png",
+      "sha1": "5d020db0e020fab60b959e4f5963d8519dcc4cd8",
+      "size": 54614,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Levitating ecco stand.json",
+      "path": "emotes/SPE_Levitating ecco stand.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Levitating ecco stand.json",
+      "sha1": "0b19ab18b9c8a076ff25eaa9e69e70a3a4334ef4",
+      "size": 295614,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Levitating ecco stand.png",
+      "path": "emotes/SPE_Levitating ecco stand.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Levitating ecco stand.png",
+      "sha1": "7e0c6de6ed46c23efe6de0e1d3f9a4a8fef1a102",
+      "size": 78596,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Levitation of the mob.json",
+      "path": "emotes/SPE_Levitation of the mob.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Levitation of the mob.json",
+      "sha1": "8d5776822b5d628f4d059a277801827f0926b5a4",
+      "size": 63750,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Levitation of the mob.png",
+      "path": "emotes/SPE_Levitation of the mob.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Levitation of the mob.png",
+      "sha1": "21b50f385ccd365e7f94e76c0c3c429dd7ccdf59",
+      "size": 70843,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lezginka.json",
+      "path": "emotes/SPE_Lezginka.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lezginka.json",
+      "sha1": "8f45f9412583c19cdbbddd92791eff6495c5f975",
+      "size": 454731,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lezginka.png",
+      "path": "emotes/SPE_Lezginka.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lezginka.png",
+      "sha1": "b7f440f9f926ce646f32b5e8a5ea9d16010239f7",
+      "size": 52491,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lie on your stomach.json",
+      "path": "emotes/SPE_Lie on your stomach.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lie on your stomach.json",
+      "sha1": "bf34ee9d1dfdf848293ebc5f9d2ff0e5c6b3018b",
+      "size": 131120,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lie on your stomach.png",
+      "path": "emotes/SPE_Lie on your stomach.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lie on your stomach.png",
+      "sha1": "62503447c30f06e4439145252cd66e5a5e9c4891",
+      "size": 53817,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lifting the legs lying down.json",
+      "path": "emotes/SPE_Lifting the legs lying down.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lifting the legs lying down.json",
+      "sha1": "fb8a66b8813cebf94cdfd9d82521e47992fcbeb3",
+      "size": 56679,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lifting the legs lying down.png",
+      "path": "emotes/SPE_Lifting the legs lying down.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lifting the legs lying down.png",
+      "sha1": "1b6cd77ae53e7d75f7b76c8e5f8332747546e902",
+      "size": 54892,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Little babijon.json",
+      "path": "emotes/SPE_Little babijon.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Little babijon.json",
+      "sha1": "29d564716d6fa2f5bb5f5cd829390b9b157d30d1",
+      "size": 118262,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Little babijon.png",
+      "path": "emotes/SPE_Little babijon.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Little babijon.png",
+      "sha1": "ff7cf4c2b53e5e161464160a542adde705e492cf",
+      "size": 50838,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Look back.json",
+      "path": "emotes/SPE_Look back.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Look back.json",
+      "sha1": "29804509a13d505cd26e21c16e8a7b3a9f3329e5",
+      "size": 349029,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Look back.png",
+      "path": "emotes/SPE_Look back.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Look back.png",
+      "sha1": "38a79bae1fdb488acb59c219a1cdfae45bb81311",
+      "size": 39327,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Look into the distance.json",
+      "path": "emotes/SPE_Look into the distance.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Look into the distance.json",
+      "sha1": "70585423b3d5f28e427af3086015defeb42a51ae",
+      "size": 148126,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Look into the distance.png",
+      "path": "emotes/SPE_Look into the distance.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Look into the distance.png",
+      "sha1": "59de8af3450acdde708a2802ff24254b90256a8e",
+      "size": 73089,
+      "enabled": true
+    },
+    {
+      "name": "SPE_look through a magnifying glass.json",
+      "path": "emotes/SPE_look through a magnifying glass.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_look through a magnifying glass.json",
+      "sha1": "e0ed7d5917d5a872f9f5bea7cb78212b180a6f92",
+      "size": 598910,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Look through a magnifying glass.png",
+      "path": "emotes/SPE_Look through a magnifying glass.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Look through a magnifying glass.png",
+      "sha1": "4b647849b1f9ee1f1fc7aaef330aeb051e2d69df",
+      "size": 54525,
+      "enabled": true
+    },
+    {
+      "name": "SPE_look through the telescope.json",
+      "path": "emotes/SPE_look through the telescope.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_look through the telescope.json",
+      "sha1": "4018b174e70fd01457fe26cf6b2c810bacccd062",
+      "size": 68458,
+      "enabled": true
+    },
+    {
+      "name": "SPE_look through the telescope.png",
+      "path": "emotes/SPE_look through the telescope.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_look through the telescope.png",
+      "sha1": "7cdf27fe883abb8c2be289f09195470cccc18332",
+      "size": 52709,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lose consciousness.json",
+      "path": "emotes/SPE_Lose consciousness.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lose consciousness.json",
+      "sha1": "0ed90dfa1e4d708d1838d9ba9dd71f5617efb40a",
+      "size": 420214,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lose consciousness.png",
+      "path": "emotes/SPE_Lose consciousness.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lose consciousness.png",
+      "sha1": "ec1c97b7d2ff6fa64aded1e35b7905cef05e691c",
+      "size": 58804,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lublin.json",
+      "path": "emotes/SPE_Lublin.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lublin.json",
+      "sha1": "3e7fd929c4ec2b94569939916ebaab42360961d1",
+      "size": 65888,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lublin.png",
+      "path": "emotes/SPE_Lublin.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lublin.png",
+      "sha1": "dbcb5d476ba0369f82302e18e5344b515fe8ee2f",
+      "size": 52017,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Luck.json",
+      "path": "emotes/SPE_Luck.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Luck.json",
+      "sha1": "339678181e33c33f2b234f5d77094762be56c8a3",
+      "size": 295358,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Luck.png",
+      "path": "emotes/SPE_Luck.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Luck.png",
+      "sha1": "129b03e160ea76d5bfc536a104a46c2e9d2d51aa",
+      "size": 51773,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Luffy Stand.json",
+      "path": "emotes/SPE_Luffy Stand.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Luffy Stand.json",
+      "sha1": "97674ffe6197c50faec8b81f02c5381123af797f",
+      "size": 31181,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Luffy Stand.png",
+      "path": "emotes/SPE_Luffy Stand.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Luffy Stand.png",
+      "sha1": "30d0b69ddc96f7ac372658bbb1394b0e49bb016c",
+      "size": 79875,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lumbar puncture.json",
+      "path": "emotes/SPE_Lumbar puncture.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lumbar puncture.json",
+      "sha1": "92dd85388519193bb5503b7eacb8ccf8a79a0ab6",
+      "size": 86710,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lumbar puncture.png",
+      "path": "emotes/SPE_Lumbar puncture.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lumbar puncture.png",
+      "sha1": "bcbd903160617cc3106ef1acb4857a94a59063fe",
+      "size": 58460,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying in a boat.json",
+      "path": "emotes/SPE_Lying in a boat.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying in a boat.json",
+      "sha1": "e059f6edf46a1f7ba4c669b3f52209ca5a3140ac",
+      "size": 68485,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying in a boat.png",
+      "path": "emotes/SPE_Lying in a boat.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying in a boat.png",
+      "sha1": "833a9c7cdd0dab38467d0e8a83cc0f643a4b87e3",
+      "size": 83146,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying in a trolley.json",
+      "path": "emotes/SPE_Lying in a trolley.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying in a trolley.json",
+      "sha1": "20eb122f60983b5d9c4aa10ec0017f5b9cd14908",
+      "size": 73522,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying in a trolley.png",
+      "path": "emotes/SPE_Lying in a trolley.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying in a trolley.png",
+      "sha1": "579c7b775e7f12aaf97ad10364d6aa90b4804e74",
+      "size": 81655,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying on a Hellish Baldezh.json",
+      "path": "emotes/SPE_Lying on a Hellish Baldezh.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying on a Hellish Baldezh.json",
+      "sha1": "75d46632a5380a250f1ecdf8ff9473c666a104dd",
+      "size": 153933,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying on a Hellish Baldezh.png",
+      "path": "emotes/SPE_Lying on a Hellish Baldezh.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying on a Hellish Baldezh.png",
+      "sha1": "0868f2b45e4fa2ecbad2e815549d92a25c1e9db2",
+      "size": 69799,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying on a hellish baldezh1.json",
+      "path": "emotes/SPE_Lying on a hellish baldezh1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying on a hellish baldezh1.json",
+      "sha1": "0d31dc01160cfcc67ce4a92a23f62a75e8f6fd86",
+      "size": 46226,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying on a hellish baldezh1.png",
+      "path": "emotes/SPE_Lying on a hellish baldezh1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying on a hellish baldezh1.png",
+      "sha1": "0b8e3649acc1349c7103bb12969373ad6538a093",
+      "size": 69708,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying Sex.json",
+      "path": "emotes/SPE_Lying Sex.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying Sex.json",
+      "sha1": "2c1b2f5745c7108e0122e74a4389861217302168",
+      "size": 340201,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying Sex.png",
+      "path": "emotes/SPE_Lying Sex.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying Sex.png",
+      "sha1": "6f753b8e75077ea46ccf79e2e4ee053160897a88",
+      "size": 35810,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying sideways1.json",
+      "path": "emotes/SPE_Lying sideways1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying sideways1.json",
+      "sha1": "219c96dc6f0996eec1685a231f48e0f2d8debcf3",
+      "size": 53655,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying sideways1.png",
+      "path": "emotes/SPE_Lying sideways1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying sideways1.png",
+      "sha1": "638702e90283b7e105589f86eb903ca369207af3",
+      "size": 46160,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying sideways2.json",
+      "path": "emotes/SPE_Lying sideways2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying sideways2.json",
+      "sha1": "f438023fd030424fcf959ac6e23a00ecdc0945f3",
+      "size": 53665,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying sideways2.png",
+      "path": "emotes/SPE_Lying sideways2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying sideways2.png",
+      "sha1": "0d7f6cfd8588a2cc6fddab05fe18a40480e5f40c",
+      "size": 36631,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying with your hands behind your head.json",
+      "path": "emotes/SPE_Lying with your hands behind your head.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying with your hands behind your head.json",
+      "sha1": "0875dcd2a16e2fcf95317b657961659d9428dbb7",
+      "size": 44361,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Lying with your hands behind your head.png",
+      "path": "emotes/SPE_Lying with your hands behind your head.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Lying with your hands behind your head.png",
+      "sha1": "6c38d05afeca74626d4e0ec920a7fe646f55fe9e",
+      "size": 41391,
+      "enabled": true
+    },
+    {
+      "name": "SPE_lying with your hands tied.json",
+      "path": "emotes/SPE_lying with your hands tied.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_lying with your hands tied.json",
+      "sha1": "35c43779e780978b739ac0484a84f77cc7964c8d",
+      "size": 72393,
+      "enabled": true
+    },
+    {
+      "name": "SPE_lying with your hands tied.png",
+      "path": "emotes/SPE_lying with your hands tied.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_lying with your hands tied.png",
+      "sha1": "930f5f62866e83833a97480f7b001ea67f5fae99",
+      "size": 55524,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Malicious refusal.json",
+      "path": "emotes/SPE_Malicious refusal.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Malicious refusal.json",
+      "sha1": "7f48e2ee94b3f358261e50c0c6fecdf15f55e511",
+      "size": 41139,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Malicious refusal.png",
+      "path": "emotes/SPE_Malicious refusal.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Malicious refusal.png",
+      "sha1": "08d4f1bd20fc955dd89b99aa9beb0a40269f2585",
+      "size": 38112,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Maniac.json",
+      "path": "emotes/SPE_Maniac.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Maniac.json",
+      "sha1": "0d87b1e40cacba600287c8632c5265486dd8fb07",
+      "size": 132277,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Maniac.png",
+      "path": "emotes/SPE_Maniac.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Maniac.png",
+      "sha1": "28c3d4114b6342c0f3d15736e260ed36ad60c4fd",
+      "size": 51790,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Manipulation of chaos energy.json",
+      "path": "emotes/SPE_Manipulation of chaos energy.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Manipulation of chaos energy.json",
+      "sha1": "f4da1528de654b9e79a627b22e35a05831177d62",
+      "size": 148714,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Manipulation of chaos energy.png",
+      "path": "emotes/SPE_Manipulation of chaos energy.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Manipulation of chaos energy.png",
+      "sha1": "77c4545b72fea66c17d66fe98adcc8389ec4fbf8",
+      "size": 71450,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Manner.json",
+      "path": "emotes/SPE_Manner.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Manner.json",
+      "sha1": "329311be7bb5638d7db769e1820ce0ff0bf1a17e",
+      "size": 321775,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Manner.png",
+      "path": "emotes/SPE_Manner.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Manner.png",
+      "sha1": "0027986367d7facd9e42b8f758b732b006c017f8",
+      "size": 51002,
+      "enabled": true
+    },
+    {
+      "name": "SPE_March.json",
+      "path": "emotes/SPE_March.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_March.json",
+      "sha1": "67e17009d3aad9cd0b916efea7a49f52da07e497",
+      "size": 292849,
+      "enabled": true
+    },
+    {
+      "name": "SPE_March.png",
+      "path": "emotes/SPE_March.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_March.png",
+      "sha1": "851d47ba127521c3c19f735c8396f9f7c3167795",
+      "size": 58801,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Marie 's pose.json",
+      "path": "emotes/SPE_Marie 's pose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Marie 's pose.json",
+      "sha1": "70696979524f23a08dd3d52e5139c8b727c5f984",
+      "size": 30829,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Marie 's pose.png",
+      "path": "emotes/SPE_Marie 's pose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Marie 's pose.png",
+      "sha1": "753d11330aabeeaa852c310c89feb6850c7a7158",
+      "size": 84632,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Masturbate.json",
+      "path": "emotes/SPE_Masturbate.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Masturbate.json",
+      "sha1": "2acf7e3921427ddcf5d09289b7078eda7392a38e",
+      "size": 16286,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Masturbate.png",
+      "path": "emotes/SPE_Masturbate.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Masturbate.png",
+      "sha1": "ce01e5bd20cc5456a67c479d196ac4ca5f428437",
+      "size": 34753,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mesmerizer.json",
+      "path": "emotes/SPE_Mesmerizer.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mesmerizer.json",
+      "sha1": "c66d66f7fac084b701eae42c2c8cc146ef988f5f",
+      "size": 427504,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mesmerizer.png",
+      "path": "emotes/SPE_Mesmerizer.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mesmerizer.png",
+      "sha1": "d8129dced7fcef4c1514421ce53d1dacad3b592e",
+      "size": 65117,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mewing.json",
+      "path": "emotes/SPE_Mewing.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mewing.json",
+      "sha1": "2800313380df5102014c501e6b507bafee6c7bef",
+      "size": 483778,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mewing.png",
+      "path": "emotes/SPE_Mewing.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mewing.png",
+      "sha1": "c8e59412d136e65c89c1ae19c8ff26d0e7ca9a7d",
+      "size": 36291,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mine ore with a pickaxe.json",
+      "path": "emotes/SPE_Mine ore with a pickaxe.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mine ore with a pickaxe.json",
+      "sha1": "748a4180231780a5af15fc22fecb95b33b4dd34a",
+      "size": 88781,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mine ore with a pickaxe.png",
+      "path": "emotes/SPE_Mine ore with a pickaxe.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mine ore with a pickaxe.png",
+      "sha1": "517d5ce70a5fe1a841ff4e8b54440b5cea024f62",
+      "size": 88213,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Misunderstanding.json",
+      "path": "emotes/SPE_Misunderstanding.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Misunderstanding.json",
+      "sha1": "45089d952e4b3ebc9628e906395ff7dc39c05d1a",
+      "size": 187158,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Misunderstanding.png",
+      "path": "emotes/SPE_Misunderstanding.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Misunderstanding.png",
+      "sha1": "1dbfcec117ab98d0825cde9787e1dc9a149b22e1",
+      "size": 57721,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mjolnir Strike.json",
+      "path": "emotes/SPE_Mjolnir Strike.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mjolnir Strike.json",
+      "sha1": "937de8c3c3f54f80b7e7b9501319620c83d805ed",
+      "size": 52446,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mjolnir Strike.png",
+      "path": "emotes/SPE_Mjolnir Strike.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mjolnir Strike.png",
+      "sha1": "1777cd0d8743e2bdac81d6593582eb8dabdf84d2",
+      "size": 86589,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Model Gait.json",
+      "path": "emotes/SPE_Model Gait.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Model Gait.json",
+      "sha1": "85134b9c0de2e801664b791092a3a7e00f8ae593",
+      "size": 264399,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Model Gait.png",
+      "path": "emotes/SPE_Model Gait.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Model Gait.png",
+      "sha1": "fbd15d9d47cd2bd18d3149f9f5ca3c07d1d400bf",
+      "size": 57207,
+      "enabled": true
+    },
+    {
+      "name": "SPE_ModelPose.json",
+      "path": "emotes/SPE_ModelPose.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_ModelPose.json",
+      "sha1": "48b99536ce5309101345344555ca341a96fd0483",
+      "size": 24099,
+      "enabled": true
+    },
+    {
+      "name": "SPE_ModelPose.png",
+      "path": "emotes/SPE_ModelPose.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_ModelPose.png",
+      "sha1": "8646de258797e10c8527e7a35b86016c18f2fb5d",
+      "size": 55925,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose1.json",
+      "path": "emotes/SPE_Modelpose1.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose1.json",
+      "sha1": "c9396eb55b02e88b9e8a5d6ac0aa610ad395a196",
+      "size": 26834,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose1.png",
+      "path": "emotes/SPE_Modelpose1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose1.png",
+      "sha1": "ea1f219f4c157a9e7698ab0a230c00616d950882",
+      "size": 42054,
+      "enabled": true
+    },
+    {
+      "name": "SPE_modelpose2.json",
+      "path": "emotes/SPE_modelpose2.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_modelpose2.json",
+      "sha1": "391002730f2d3b5fb6cbafd0ae5240d4b2d33c83",
+      "size": 24734,
+      "enabled": true
+    },
+    {
+      "name": "SPE_modelpose2.png",
+      "path": "emotes/SPE_modelpose2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_modelpose2.png",
+      "sha1": "2f2ab105d4424b21fbf71903cdf34e365da96d1b",
+      "size": 60578,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose3.json",
+      "path": "emotes/SPE_Modelpose3.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose3.json",
+      "sha1": "d13948c97dcb3274ef72ed54eff674dc57af0fc5",
+      "size": 27246,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose3.png",
+      "path": "emotes/SPE_Modelpose3.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose3.png",
+      "sha1": "01cb4db07cfaf491e07422c23c1e4ad88dbb8403",
+      "size": 42804,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose4.json",
+      "path": "emotes/SPE_Modelpose4.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose4.json",
+      "sha1": "2631b2718819a1fa60076348f9ca95719dacc01a",
+      "size": 28084,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose4.png",
+      "path": "emotes/SPE_Modelpose4.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose4.png",
+      "sha1": "9683e4e24f1ec1c1c81771f4c84807cd892b23fa",
+      "size": 51623,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose5.json",
+      "path": "emotes/SPE_Modelpose5.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose5.json",
+      "sha1": "d656c8f606c96fa78cccf067306cade0ab259053",
+      "size": 21882,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose5.png",
+      "path": "emotes/SPE_Modelpose5.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose5.png",
+      "sha1": "6e5a4aed0ff43829ab53bc2185b82f1006e7f63f",
+      "size": 41136,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose6.json",
+      "path": "emotes/SPE_Modelpose6.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose6.json",
+      "sha1": "3e3919e671ef67c62d65e3d851719c71015e6197",
+      "size": 25342,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose6.png",
+      "path": "emotes/SPE_Modelpose6.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose6.png",
+      "sha1": "f4128f31bf0e862353e300aa32e4d02417464dd6",
+      "size": 46956,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose7.json",
+      "path": "emotes/SPE_Modelpose7.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose7.json",
+      "sha1": "9a4e17d2de80784397371c8f34870b071c58b7dc",
+      "size": 38666,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose7.png",
+      "path": "emotes/SPE_Modelpose7.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose7.png",
+      "sha1": "a76dafe46576d23095bb2bf0b206853e8d20c647",
+      "size": 52674,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose8.json",
+      "path": "emotes/SPE_Modelpose8.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose8.json",
+      "sha1": "49f97c05db68a6214235b04c8aa536b31a6685f4",
+      "size": 36522,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Modelpose8.png",
+      "path": "emotes/SPE_Modelpose8.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Modelpose8.png",
+      "sha1": "4db18f994d7bd9493e25a497ec1a6476bdaca7b9",
+      "size": 46360,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Moonwalk.json",
+      "path": "emotes/SPE_Moonwalk.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Moonwalk.json",
+      "sha1": "1f749a2a2aa3aa60eb823d78297d6916220ad309",
+      "size": 216909,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Moonwalk.png",
+      "path": "emotes/SPE_Moonwalk.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Moonwalk.png",
+      "sha1": "809cda500740086c5fd0bcec3a63b732ff2edaa7",
+      "size": 52574,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Move sideways.json",
+      "path": "emotes/SPE_Move sideways.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Move sideways.json",
+      "sha1": "641da801e16a55a0fefd75ee58bfe8d382ece903",
+      "size": 68193,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Move sideways.png",
+      "path": "emotes/SPE_Move sideways.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Move sideways.png",
+      "sha1": "9bdc21f5d504fb70384ff1f551e7cc1f12dd7133",
+      "size": 49188,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Move your ass.json",
+      "path": "emotes/SPE_Move your ass.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Move your ass.json",
+      "sha1": "89977232bac02f252ffd55fc5247eeac23410801",
+      "size": 187889,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Move your ass.png",
+      "path": "emotes/SPE_Move your ass.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Move your ass.png",
+      "sha1": "009c0341d9b5a5c0ca37ae7becec0ad645c4c3c1",
+      "size": 53421,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mystery.json",
+      "path": "emotes/SPE_Mystery.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mystery.json",
+      "sha1": "0ba75d3eaa4d96a01fd29c5cca1a3619c151f459",
+      "size": 721849,
+      "enabled": true
+    },
+    {
+      "name": "SPE_Mystery.png",
+      "path": "emotes/SPE_Mystery.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/emotes/SPE_Mystery.png",
+      "sha1": "84de50bca60f99f035fb9bcfc5ff2aefc63baf4a",
+      "size": 56621,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32171",
