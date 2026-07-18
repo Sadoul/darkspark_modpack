@@ -1037,22 +1037,6 @@
       "enabled": true
     },
     {
-      "name": "danganost.jar",
-      "path": "mods/danganost.jar",
-      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganost.jar",
-      "sha1": "12824395ca9e5c721b7e5f23f3474f05d8fca936",
-      "size": 251518718,
-      "enabled": true
-    },
-    {
-      "name": "verseost.jar",
-      "path": "mods/verseost.jar",
-      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__verseost.jar",
-      "sha1": "11d9502f3688d3f0a913b8578c07f37f78768129",
-      "size": 99954037,
-      "enabled": true
-    },
-    {
       "name": "lobbymusic_beta2_0.jar",
       "path": "mods/lobbymusic_beta2_0.jar",
       "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__lobbymusic_beta2_0.jar",
@@ -1066,6 +1050,14 @@
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/armourersworkshop-fabric-1.20.1-3.0.0-beta.25.jar",
       "sha1": "7d4d15598d1dba1efb229275f57205a3bbf409c9",
       "size": 5182570,
+      "enabled": true
+    },
+    {
+      "name": "danganost.jar",
+      "path": "mods/danganost.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganost.jar",
+      "sha1": "f936742afb7d446f4e3407a14fefd8f6a37926cd",
+      "size": 270398743,
       "enabled": true
     }
   ],
