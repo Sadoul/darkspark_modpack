@@ -1059,6 +1059,22 @@
       "sha1": "f936742afb7d446f4e3407a14fefd8f6a37926cd",
       "size": 270398743,
       "enabled": true
+    },
+    {
+      "name": "voiceplay-0.1.0.jar",
+      "path": "mods/voiceplay-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/voiceplay-0.1.0.jar",
+      "sha1": "19995300e5111b1fd433c292d04e5a0f3eccfda4",
+      "size": 23071,
+      "enabled": true
+    },
+    {
+      "name": "ost-0.1.0.jar",
+      "path": "mods/ost-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ost-0.1.0.jar",
+      "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
+      "size": 14177814,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
