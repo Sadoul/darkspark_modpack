@@ -1075,6 +1075,22 @@
       "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
       "size": 14177814,
       "enabled": true
+    },
+    {
+      "name": "weaponmod-fabric-1.20.1-1.24.6.jar",
+      "path": "mods/weaponmod-fabric-1.20.1-1.24.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/weaponmod-fabric-1.20.1-1.24.6.jar",
+      "sha1": "796eb6b33ceccf75258d35c947a259191d808516",
+      "size": 719934,
+      "enabled": true
+    },
+    {
+      "name": "verseostMAIN.jar",
+      "path": "mods/verseostMAIN.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__verseostMAIN.jar",
+      "sha1": "e058dd6b2a678757d9772220cf7786f83b2f751b",
+      "size": 138725960,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
