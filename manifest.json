@@ -1069,9 +1069,9 @@
       "enabled": true
     },
     {
-      "name": "ost-0.1.0.jar",
-      "path": "mods/ost-0.1.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ost-0.1.0.jar",
+      "name": "trial",
+      "path": "mods/trial",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/trial",
       "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
       "size": 14177814,
       "enabled": true
