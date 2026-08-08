@@ -1069,14 +1069,6 @@
       "enabled": true
     },
     {
-      "name": "trial",
-      "path": "mods/trial",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/trial",
-      "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
-      "size": 14177814,
-      "enabled": true
-    },
-    {
       "name": "weaponmod-fabric-1.20.1-1.24.6.jar",
       "path": "mods/weaponmod-fabric-1.20.1-1.24.6.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/weaponmod-fabric-1.20.1-1.24.6.jar",
