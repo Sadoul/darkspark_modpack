@@ -1107,6 +1107,14 @@
       "sha1": "986d192b883b55d40547274f0b4f9e4e676ee10c",
       "size": 79050132,
       "enabled": true
+    },
+    {
+      "name": "ost-0.1.0.jar",
+      "path": "mods/ost-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ost-0.1.0.jar",
+      "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
+      "size": 14177814,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
