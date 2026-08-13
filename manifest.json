@@ -1117,11 +1117,11 @@
       "enabled": true
     },
     {
-      "name": "летающие машины.jar",
-      "path": "mods/летающие машины.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/летающие машины.jar",
-      "sha1": "5a522742728e7af17eec2ef54ec5ac4c8f35de32",
-      "size": 694302,
+      "name": "letalka.jar",
+      "path": "mods/letalka.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letalka.jar",
+      "sha1": "5b5e7f034b0249bc0780aa5a9d2ccd83031f5126",
+      "size": 694548,
       "enabled": true
     }
   ],
