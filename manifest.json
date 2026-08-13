@@ -1115,6 +1115,14 @@
       "sha1": "dd9351cc41565639b0ba594fec86c2135cc4671b",
       "size": 14177814,
       "enabled": true
+    },
+    {
+      "name": "летающие машины.jar",
+      "path": "mods/летающие машины.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/летающие машины.jar",
+      "sha1": "5a522742728e7af17eec2ef54ec5ac4c8f35de32",
+      "size": 694302,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
