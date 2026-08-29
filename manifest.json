@@ -1123,6 +1123,14 @@
       "sha1": "5b5e7f034b0249bc0780aa5a9d2ccd83031f5126",
       "size": 694548,
       "enabled": true
+    },
+    {
+      "name": "proceedmod67.jar",
+      "path": "mods/proceedmod67.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/proceedmod67.jar",
+      "sha1": "82861f5e658667f6c8c49cf19630502b8ec5404f",
+      "size": 11407666,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
