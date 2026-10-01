@@ -1053,14 +1053,6 @@
       "enabled": true
     },
     {
-      "name": "danganost.jar",
-      "path": "mods/danganost.jar",
-      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganost.jar",
-      "sha1": "f936742afb7d446f4e3407a14fefd8f6a37926cd",
-      "size": 270398743,
-      "enabled": true
-    },
-    {
       "name": "voiceplay-0.1.0.jar",
       "path": "mods/voiceplay-0.1.0.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/voiceplay-0.1.0.jar",
@@ -1074,14 +1066,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/weaponmod-fabric-1.20.1-1.24.6.jar",
       "sha1": "796eb6b33ceccf75258d35c947a259191d808516",
       "size": 719934,
-      "enabled": true
-    },
-    {
-      "name": "verseostMAIN.jar",
-      "path": "mods/verseostMAIN.jar",
-      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__verseostMAIN.jar",
-      "sha1": "e058dd6b2a678757d9772220cf7786f83b2f751b",
-      "size": 138725960,
       "enabled": true
     },
     {
@@ -1122,14 +1106,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/letalka.jar",
       "sha1": "5b5e7f034b0249bc0780aa5a9d2ccd83031f5126",
       "size": 694548,
-      "enabled": true
-    },
-    {
-      "name": "proceedmod67.jar",
-      "path": "mods/proceedmod67.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/proceedmod67.jar",
-      "sha1": "82861f5e658667f6c8c49cf19630502b8ec5404f",
-      "size": 11407666,
       "enabled": true
     }
   ],
