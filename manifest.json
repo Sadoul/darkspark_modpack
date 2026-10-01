@@ -1107,6 +1107,46 @@
       "sha1": "5b5e7f034b0249bc0780aa5a9d2ccd83031f5126",
       "size": 694548,
       "enabled": true
+    },
+    {
+      "name": "proceed67.jar",
+      "path": "mods/proceed67.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/proceed67.jar",
+      "sha1": "02bbeef04fc57968b774167433d197427341a553",
+      "size": 1327858,
+      "enabled": true
+    },
+    {
+      "name": "verseost3ENAA.jar",
+      "path": "mods/verseost3ENAA.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/verseost3ENAA.jar",
+      "sha1": "05510f7da2d0209ddc1eadf5c0c3525115114ce8",
+      "size": 15730660,
+      "enabled": true
+    },
+    {
+      "name": "verseost4UKandOS.jar",
+      "path": "mods/verseost4UKandOS.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/verseost4UKandOS.jar",
+      "sha1": "b32044569f2fdba0a85e220e41d0fa5adf75f729",
+      "size": 19725382,
+      "enabled": true
+    },
+    {
+      "name": "danganost.jar",
+      "path": "mods/danganost.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganost.jar",
+      "sha1": "cc9da5251b8d9d0a9396229f8dc9805e0adfa997",
+      "size": 96153777,
+      "enabled": true
+    },
+    {
+      "name": "verseostMAIN.jar",
+      "path": "mods/verseostMAIN.jar",
+      "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__verseostMAIN.jar",
+      "sha1": "f446b6182677722ec9d5ef310f3fe9c2bcc5f0ba",
+      "size": 56587056,
+      "enabled": true
     }
   ],
   "server_ip": "185.219.84.148:32898",
