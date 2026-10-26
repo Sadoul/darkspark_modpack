@@ -1139,6 +1139,30 @@
       "sha1": "f446b6182677722ec9d5ef310f3fe9c2bcc5f0ba",
       "size": 56587056,
       "enabled": true
+    },
+    {
+      "name": "cinderscapes-4.0.10-1.20.1.jar",
+      "path": "mods/cinderscapes-4.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/cinderscapes-4.0.10-1.20.1.jar",
+      "sha1": "0f978ac551d73e11723809a28cd3d5ce3d519e1c",
+      "size": 15086610,
+      "enabled": true
+    },
+    {
+      "name": "smokesignals-1.0-1.20.jar",
+      "path": "mods/smokesignals-1.0-1.20.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/smokesignals-1.0-1.20.jar",
+      "sha1": "2b8e2e3d3833169fbcdef49cd92cac7e7fd31887",
+      "size": 374239,
+      "enabled": true
+    },
+    {
+      "name": "bountifulfares-1.2.1-1.20.1.jar",
+      "path": "mods/bountifulfares-1.2.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/bountifulfares-1.2.1-1.20.1.jar",
+      "sha1": "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec",
+      "size": 4829694,
+      "enabled": true
     }
   ],
   "server_ip": "45.157.235.9:32898",
