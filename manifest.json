@@ -797,14 +797,6 @@
       "enabled": true
     },
     {
-      "name": "ReFramed-1.6.6.jar",
-      "path": "mods/ReFramed-1.6.6.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ReFramed-1.6.6.jar",
-      "sha1": "a1d656b76824fac79bb360bee8f13e1f89274f61",
-      "size": 758876,
-      "enabled": true
-    },
-    {
       "name": "refurbished_furniture-fabric-1.20.1-1.0.8.jar",
       "path": "mods/refurbished_furniture-fabric-1.20.1-1.0.8.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/refurbished_furniture-fabric-1.20.1-1.0.8.jar",
@@ -1157,14 +1149,6 @@
       "enabled": true
     },
     {
-      "name": "ReFramed-1.5.6-1.20.1.jar",
-      "path": "mods/ReFramed-1.5.6-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ReFramed-1.5.6-1.20.1.jar",
-      "sha1": "e87b1da47f0d47f3d22b2b0882d245ee5c265ab3",
-      "size": 456035,
-      "enabled": true
-    },
-    {
       "name": "danganronpa-fabric-1.0.0.jar",
       "path": "mods/danganronpa-fabric-1.0.0.jar",
       "url": "https://github.com/Sadoul/darkspark_modpack/releases/download/storage/mods__danganronpa-fabric-1.0.0.jar",
@@ -1178,6 +1162,14 @@
       "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/fabric-api-0.92.12+1.20.1.jar",
       "sha1": "3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4",
       "size": 2137232,
+      "enabled": true
+    },
+    {
+      "name": "ReFramed-1.5.6-1.20.1.jar",
+      "path": "mods/ReFramed-1.5.6-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ReFramed-1.5.6-1.20.1.jar",
+      "sha1": "e87b1da47f0d47f3d22b2b0882d245ee5c265ab3",
+      "size": 456035,
       "enabled": true
     }
   ],
