@@ -1171,6 +1171,14 @@
       "sha1": "e87b1da47f0d47f3d22b2b0882d245ee5c265ab3",
       "size": 456035,
       "enabled": true
+    },
+    {
+      "name": "dinozavri.jar",
+      "path": "mods/dinozavri.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/dinozavri.jar",
+      "sha1": "2d4717affa5b693d43a807f58b54fc839b45dbb2",
+      "size": 336435,
+      "enabled": true
     }
   ],
   "server_ip": "45.157.235.9:32898",
