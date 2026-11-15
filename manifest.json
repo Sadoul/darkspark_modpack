@@ -1163,6 +1163,14 @@
       "sha1": "2d4717affa5b693d43a807f58b54fc839b45dbb2",
       "size": 336435,
       "enabled": true
+    },
+    {
+      "name": "ReFramed-1.6.6.jar",
+      "path": "mods/ReFramed-1.6.6.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/ReFramed-1.6.6.jar",
+      "sha1": "a1d656b76824fac79bb360bee8f13e1f89274f61",
+      "size": 758876,
+      "enabled": true
     }
   ],
   "server_ip": "45.157.235.9:32898",
