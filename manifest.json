@@ -1171,6 +1171,14 @@
       "sha1": "f4b22d9e1b7d0ce8e1803f8697620c22dfa33fe7",
       "size": 91221033,
       "enabled": true
+    },
+    {
+      "name": "DanganverseCharacterSystem.jar",
+      "path": "mods/DanganverseCharacterSystem.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/darkspark_modpack/main/mods/DanganverseCharacterSystem.jar",
+      "sha1": "9102c49ba5a4c621e26281e69efca13bf0bbabc2",
+      "size": 394111,
+      "enabled": true
     }
   ],
   "server_ip": "45.157.235.9:32898",
